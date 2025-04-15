@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
+
+
 🎓 I’m a senior undergraduate student majoring in **Geographic Information Science** at the [College of Geomatics and Geoinformation](https://cgg.glut.edu.cn/), [Guilin University of Technology](https://www.glut.edu.cn/).
+
+
 
 My research interests focus on:
 - 🧾 **Deep Learning**
@@ -15,6 +19,8 @@ My research interests focus on:
 - 🌀 **Ocean Remote Sensing**
 
 ---
+
+
 
 ## 📬 Contact & Links
 
