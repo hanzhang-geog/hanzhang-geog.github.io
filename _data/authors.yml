@@ -3,8 +3,8 @@
 Name Name:                    # 作者唯一标识（可以随意命名）
   name        : "Han Zhang"   # 显示的作者姓名
   uri         : "https://hanzhang-geog.github.io"   # 📌 作者主页链接（也可以是 GitHub、个人主页等）
-  email       : "zhanghan020530@163.com"     # 📧 邮箱
-  bio         : "Per aspera ad astra"  # 👋 简介
-  avatar      : "/assets/images/avatar.jpg"   # 👤 作者头像（本地图片名）
+  email       : "📧zhanghan020530@163.com"     # 📧 邮箱
+  bio         : "🐾Per aspera ad astra"  # 👋 简介
+  avatar      : "/images/zhaop.png"   # 👤 作者头像（本地图片名）
   twitter     : #"name"              # 🐦 推特用户名（不是链接）
   google_plus : #"Name"              # 🔍 Google+ 已废弃，可忽略
