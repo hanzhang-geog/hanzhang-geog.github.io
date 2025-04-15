@@ -17,15 +17,10 @@ author:
   pronouns: "she/her"
   bio: "Per aspera ad astra"
   location: "Guilin, China"
-  employer: "🌏 Geographic Information Science"
+  employer: "GIS"
   uri: "https://hanzhang-geog.github.io"
   email: "zhanghan020530@163.com"
-  googlescholar: "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  orcid: "http://orcid.org/yourorcidurl"
-  CNKI: "https://kns.cnki.net/kcms2/author/detail?v=BlOUhu2v8Y9..."
-  github: "hanzhang-geog"
-  zhihu: "your-zhihu-username"
-  linkedin: "your-linkedin-username"
+ 
 
 # Publication Category
 publication_category:
