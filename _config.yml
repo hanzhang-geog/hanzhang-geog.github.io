@@ -74,6 +74,8 @@ include:
   - .htaccess
   - _pages
   - files
+  - assets/css/custom.css  # 👈 加入自定义样式路径
+
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
