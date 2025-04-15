@@ -25,7 +25,7 @@ author_profile: true
 
 - 📧 Email: [zhanghan020530@163.com](mailto:zhanghan020530@163.com)  
 - 🌐 Website: [hanzhang-geog.github.io](https://hanzhang-geog.github.io)  
-- 🏡 CNKI: [个人学术主页](https://kns.cnki.net/kcms2/author/detail?v=BlOUhu2v8Y9h...)  
+- 🏡 CNKI: [个人学术主页]([https://kns.cnki.net/kcms2/author/detail?v=BlOUhu2v8Y9h...](https://kns.cnki.net/kcms2/author/detail?v=BlOUhu2v8Y-jTnp7cabt3Xn3J9NY9j0JqQkt_8liKoAOoiA-MGaAo9qCzLddsnzGDyPshGEkJkAg9DJiJdHiabOgTerMSOxJUNyAD8Ijm9Sn1MegTfeXxw==&uniplatform=NZKPT&language=CHS))  
 - 🐙 GitHub: [@hanzhang-geog](https://github.com/hanzhang-geog)
 
 ---
