@@ -7,24 +7,6 @@
     "location": {
       "address": "China"
     },
-   # "profiles": [
-      {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
-      },
-      {
-        "network": "GitHub",
-        "username": "hanzhang-geog",
-        "url": "https://github.com/hanzhang-geog"
-      }
-    ]
-  },
   "education": [
     {
       "institution": "Guilin University of Technology",
