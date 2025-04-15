@@ -9,26 +9,27 @@
 
 main:
 
+  - title: "Home"
+    url: /about/
+
+  - title: "Background"
+    url: /background/
+
+  - title: "Publications"
+    url: /research/
+
+  - title: "Awards"
+    url: /awards/
+
+  - title: "Experience"
+    url: /experience/
+
+  - title: "Leadership"
+    url: /leadership/
+
+  - title: "Mentorship"
+    url: /mentorship/
+
   - title: "CV"
     url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-  
-  - title: "Publications"
-    url: /publications/
 
-  - title: "Scholarships"
-    url: /Scholarships/    
-
-  - title: "Prizes"
-    url: /Prizes/    
-    
-  - title: "internship"
-    url: /internship/
-        
-  - title: "Activities"
-    url: /year-archive/
-    
-  - title: "graduation"
-    url: /markdown/
