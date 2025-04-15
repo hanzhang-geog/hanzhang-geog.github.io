@@ -1,64 +1,56 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Han Zhang",
+    "email": "📧zhanghan020530@163.com",
+    "phone": #"",
+    "website": " https://hanzhang-geog.github.io",
+    "summary": "🐾Per aspera ad astra",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
+      "address": "China",
+      "postalCode": #"",
+      "city": #"Earth",
       "countryCode": "US",
       "region": ""
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "network": #"Google Scholar",
+        "username": #"",
+        "url": #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
       },
       {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "network": #"ORCID",
+        "username": #"",
+        "url": #"http://orcid.org/yourorcidurl"
       },
       {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "network": #"GitHub",
+        "username": #"academicpages",
+        "url": #"https://github.com/academicpages"
       }
     ]
   },
-  "work": [],
+  "work": #[],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
+      "institution": "Guilin university of technology",
+      "area": "Major Programme: Geographic Information Science",
+      "studyType": #"",
+      "startDate": "Sept. 2021",
+      "endDate": "Jun. 2025",
+      "gpa": "3.7/5.0", "rank": "3/96"
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
+      "institution": "Guilin university of technology",
+      "area": "Minor Programme: Big Data Intelligent Drawing and Simulation",
+      "studyType": #"Sept. 2023",
+      "startDate": "Sept. 2023",
+      "endDate": "Jun. 2025",
+      "gpa": "4.2/5.0",
       "courses": []
     },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
-    }
+   
   ],
   "skills": [],
   "languages": [],
