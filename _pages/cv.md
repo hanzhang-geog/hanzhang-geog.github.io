@@ -1,9 +1,19 @@
-<div class="resume-section" style="max-width: 700px; margin: 4rem auto; text-align: center;">
-  <h2 style="font-size: 2.2rem; font-weight: bold; margin-bottom: 1rem;">📄 Resume</h2>
-  <p style="font-size: 1.1rem; color: #555;">You can view or download my CV using the buttons below:</p>
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: false
+---
 
-  <div style="margin-top: 2rem; display: flex; justify-content: center; gap: 1rem;">
-    <a href="/files/cv.pdf" class="btn btn--primary" style="padding: 0.8rem 1.5rem; font-size: 1rem;">⬇️ Download PDF</a>
-    <a href="/cv/" class="btn btn--outline" style="padding: 0.8rem 1.5rem; font-size: 1rem;">🧾 View Online Version</a>
-  </div>
+<div style="text-align: center; margin-top: 3rem; margin-bottom: 3rem;">
+  <h2>📄 简历下载区</h2>
+  <p>点击以下按钮可查看或下载我的简历：</p>
+  
+  <a href="{{ '/files/cv.pdf' | relative_url }}" class="btn btn--primary" style="margin-right: 1rem;">
+    Download PDF
+  </a>
+  
+  <a href="{{ '/_data/cv.json' | relative_url }}" class="btn btn--inverse">
+    View Markdown/JSON
+  </a>
 </div>
