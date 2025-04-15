@@ -10,7 +10,7 @@
 main:
 
   - title: "Home"
-    url: /home/
+    url: /about/
 
 
   - title: "Background"
