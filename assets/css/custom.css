@@ -7,6 +7,14 @@
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
 
+.author__avatar {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  border-radius: 12px; /* 设为0即完全方形 */
+  object-fit: cover;
+  overflow: hidden;
+}
+
 /* ---------- 侧边栏与主内容分割线 ---------- */
 @media (min-width: 64em) {
   .sidebar {
