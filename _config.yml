@@ -1,5 +1,4 @@
-
-# Basic Site Settings
+# Basic Site Settings 
 locale: "en-US"
 site_theme: "default"
 title: "Han Zhang"
@@ -12,15 +11,14 @@ repository: "hanzhang-geog/hanzhang-geog.github.io"
 
 # Site Author
 author:
-  avatar: "zhaop.png"
+  avatar: "profile.png"
   name: "Han Zhang"
+  pronouns: "she/her"
   bio: "Per aspera ad astra"
   location: "Guilin, China"
-  employer: "🌏 GIS"
+  employer: "GIS"
   uri: "https://hanzhang-geog.github.io"
   email: "zhanghan020530@163.com"
-
- 
 
 # Publication Category
 publication_category:
@@ -77,8 +75,6 @@ include:
   - .htaccess
   - _pages
   - files
-  - assets/css/custom.css   # ✅ 加这一行
-
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
