@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV (JSON Version)"
 permalink: /cv-json/
 author_profile: false
 redirect_from:
@@ -9,9 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+<!-- 样式文件导入 -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/cv-style.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 
+<!-- 响应式样式 -->
 <style>
   .archive {
     width: 80%;
@@ -19,7 +21,7 @@ redirect_from:
     float: none;
     padding-right: 0;
   }
-  
+
   @media (min-width: 80em) {
     .archive {
       width: 70%;
@@ -27,9 +29,15 @@ redirect_from:
   }
 </style>
 
+<!-- 插入 CV 模板 -->
 {% include cv-template.html %}
 
-<div class="cv-download-links">
-  <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download CV as PDF</a>
-  <a href="{{ base_path }}" class="btn btn--inverse">View Markdown CV</a>
+<!-- 下载按钮区域 -->
+<div class="cv-download-links" style="margin-top: 2em;">
+  <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">
+    <i class="fas fa-file-pdf"></i> Download CV as PDF
+  </a>
+  <a href="{{ base_path }}/cv/" class="btn btn--inverse">
+    <i class="fas fa-file-alt"></i> View Markdown CV
+  </a>
 </div>
