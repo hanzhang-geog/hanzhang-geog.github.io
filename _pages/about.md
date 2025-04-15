@@ -7,7 +7,7 @@ author_profile: true
 
 ## 👋 Hello, I’m Han Zhang (张涵)
 
-🎓 I’m a senior undergraduate student majoring in **Geographic Information Science** the [College of Geomatics and Geoinformation](https://cgg.glut.edu.cn/), [Guilin University of Technology](https://www.glut.edu.cn/).
+🎓 I’m a senior undergraduate student majoring in **Geographic Information Science** at the [College of Geomatics and Geoinformation](https://cgg.glut.edu.cn/), [Guilin University of Technology](https://www.glut.edu.cn/).
 📝 My minor is **Big Data Intelligent Drawing and Simulation**.  
 
 ---
