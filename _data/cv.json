@@ -7,7 +7,7 @@
     "location": {
       "address": "China"
     },
-    "profiles": [
+   # "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
