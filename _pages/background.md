@@ -10,9 +10,9 @@ author_profile: true
 **Guilin University of Technology**
 
 - **Major**: Geographic Information Science   📅 *Sept. 2021 – Jun. 2025 (expected)*  
-  - GPA: 3.74 / 5.0 | Rank: 3 / 96  
+ - GPA: 3.74 / 5.0 • Rank: 3 / 96
   - 🏅 Ranked **1st in major during junior year**, with **GPA 4.2 / 5.0**, scoring **≥95** in **43 courses** and **≥90** in **51 courses** throughout the undergraduate program  
-  - 🎯 **Core Courses**:  
+  - **Core Courses**:  
     - C# (86)  
     - Technology and Application of Remote Sensing (87)  
     - Principles and Applications of Spatial Database (91)  
@@ -20,7 +20,7 @@ author_profile: true
 
 - **Minor**: Big Data Intelligent Drawing and Simulation   📅 *Sept. 2023 – Jun. 2025*  
   - GPA: 4.26 / 5.0  
-  - 🎯 **Core Courses**:  
+  - **Core Courses**:  
     - Internet of Things Technology and Application (86)  
     - Location-based Service Network and Big Data Technology (95)  
     - Virtual Reality and Real 3D Modeling (95)
