@@ -74,6 +74,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - index.md  
   - assets/css/custom.css  # 👈 加入自定义样式路径
 
 exclude:
