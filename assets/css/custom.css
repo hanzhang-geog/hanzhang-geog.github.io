@@ -1,42 +1,126 @@
-/* ---------- Avatar 方形样式 ---------- */
+/* === Global Reset & Base === */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.8;
+  font-size: 16px;
+  color: #333;
+  background-color: #ffffff;
+}
+
+/* === Sidebar Layout === */
 .author__avatar img {
-  border-radius: 8px !important; /* 方形带轻微圆角 */
-  width: 180px !important;
-  height: auto !important;
+  border-radius: 0; /* 去除圆角，长方形头像 */
   object-fit: cover;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-}
-
-.author__avatar {
   width: 100%;
-  aspect-ratio: 1 / 1;
-  border-radius: 12px; /* 设为0即完全方形 */
-  object-fit: cover;
-  overflow: hidden;
+  height: auto;
+  max-height: 280px;
+  border: 1px solid #ddd;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
 }
 
-/* ---------- 侧边栏与主内容分割线 ---------- */
+.author__content h1,
+.author__content h2,
+.author__content h3 {
+  margin-bottom: 0.5rem;
+}
+
+.author__urls-wrapper {
+  margin-top: 1rem;
+}
+
+.author__urls {
+  list-style: none;
+  padding-left: 0;
+}
+
+.author__urls li {
+  margin-bottom: 0.5rem;
+  font-size: 15px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: #444;
+}
+
+.author__urls li a {
+  color: #444;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+.author__urls li a:hover {
+  color: #007acc;
+  text-decoration: underline;
+}
+
+/* === Section Headings === */
+h2, h3, h4 {
+  border-left: 4px solid #7dbde8;
+  padding-left: 12px;
+  margin-top: 2rem;
+  font-weight: 600;
+}
+
+/* === Divider Between Sidebar and Content === */
+.sidebar.sticky {
+  border-right: 1px solid #e6e6e6;
+}
+
 @media (min-width: 64em) {
-  .sidebar {
-    border-right: 1px solid #e0e0e0 !important; /* 细灰色直线 */
-    padding-right: 1.5em;
-    margin-right: 1.5em;
+  .sidebar.sticky {
+    border-right: 1px solid #e0e0e0;
   }
 }
 
-/* ---------- 联系方式图标更可爱些（可选） ---------- */
-.author__urls svg {
-  color: #4f4f4f;
-  transform: scale(1.1);
-  transition: transform 0.2s ease;
-}
-.author__urls svg:hover {
-  transform: scale(1.3);
-  color: #3aa0ff;
+/* === Links === */
+a {
+  color: #007acc;
+  text-decoration: none;
 }
 
-/* ---------- 文字排版微调 ---------- */
-.author__bio,
-.author__urls {
-  line-height: 1.7;
+a:hover {
+  text-decoration: underline;
+}
+
+/* === Buttons === */
+.btn {
+  font-size: 15px;
+  padding: 6px 14px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  background-color: #f5f5f5;
+  transition: background-color 0.2s ease;
+}
+
+.btn:hover {
+  background-color: #e6f4ff;
+  border-color: #99d3f8;
+  color: #005a9c;
+}
+
+/* === Post/List Item Styling === */
+.archive__item-title {
+  font-size: 18px;
+  color: #222;
+}
+
+.archive__item-excerpt {
+  color: #555;
+  font-size: 15px;
+}
+
+/* === Page Breaks === */
+hr {
+  border: none;
+  border-top: 1px solid #eee;
+  margin: 2rem 0;
+}
+
+/* === Misc === */
+.notice {
+  background-color: #f1faff;
+  border-left: 4px solid #48c3f3;
+  padding: 10px 16px;
+  margin-bottom: 1rem;
+  font-size: 15px;
 }
