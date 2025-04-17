@@ -7,10 +7,9 @@ author_profile: true
 
 ## 🏅 Scholarships
 
-- **National Encouragement Scholarship**（国家励志奖学金） · *2023*  
-  Awarded for outstanding academic performance and comprehensive excellence.
-
-- **First-Class Academic Scholarship** · *2022 – 2024*  
+- **National Scholarship**（国家奖学金） · *2024*  
+  Awarded to top-performing students (~1%) for academic excellence and outstanding comprehensive qualities, including research, practice, and campus leadership.
+- **The Special Prize Scholarship**, 2024  
   Earned consecutively for top 5% GPA ranking within the major.
 
 - **Excellent Freshman Scholarship**（优秀新生奖学金） · *2021*  
