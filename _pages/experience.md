@@ -5,29 +5,71 @@ layout: single
 author_profile: true
 ---
 
-## 🏢 校外实习
+## 🏢 Off-campus Internships
 
-### 🔹 XXX科技有限公司 | 实习岗位：遥感数据分析助理  
-📅 实习时间：2024年7月 – 2024年9月  
-📝 内容摘要：  
-- 参与多源遥感数据的处理与解译（主要为Landsat和Sentinel影像）  
-- 使用ArcGIS与ENVI进行地类识别与精度评估  
-- 协助项目团队完成客户定制报告  
+### 🏙️ Hangzhou Vision Space-Time Technology Co., Ltd. | Position: Pipeline Defect Monitoring Intern  
+**Period**: Feb. 2024 – Apr. 2024
+- Annotated urban underground pipeline defects based on standardized technical manuals, accurately classifying them into multiple types such as corrosion, leakage, displacement, etc.  
+- Ensured annotation consistency and high accuracy under a large image volume, contributing to downstream defect recognition algorithms.  .
 
-![遥感分析工作截图](/images/remote_sensing_work.jpg)
+### 🚦 Zaozhuang Public Security Bureau, Shizhong Branch | Position: Traffic Accident Image Analyst Intern  
+**Period:** Dec. 2022 – Feb. 2023  
+- Categorized and labeled traffic accident images captured by surveillance systems into predefined severity and type categories (e.g., collision, rear-end, rollover).  
+- Worked closely with the police unit’s information department to enhance dataset usability for accident pattern analysis.  
+- Followed official annotation protocols strictly to ensure dataset compliance and confidentiality.  
+- Developed attention to visual detail and labeling accuracy under real-world, time-constrained scenarios.
+  
+---
+
+## 🏫 On-campus Internships
+
+### 📏 Surveying Practice  
+**Tools:** Total Station, Level Instrument  
+**Content:**  
+- Conducted **leveling**, **control surveying**, and **detail surveying** in field settings.  
+- Practiced standardized surveying workflows to ensure accuracy and consistency in spatial data acquisition.  
+- Strengthened skills in data recording, instrument operation, and teamwork under field constraints.
 
 ---
 
-## 🏫 校内实习
+### 🗺️ Fundamental Geographic Information Practice  
+**Tools:** ArcGIS, SuperMap  
+**Content:**  
+- Designed and produced thematic maps for **Wuhan City** using ArcGIS.  
+- Completed spatial data management and visualization of **Guilin City** with SuperMap.  
+- Practiced full GIS workflow from data import to cartographic layout.
 
-### 🔹 桂林理工大学地理信息工程实验室 | 助理研究员  
-📅 实习时间：2023年10月 – 2024年1月  
-📝 内容摘要：  
-- 协助导师开展YOLOv8模型改进相关实验  
-- 参与红外遥感影像预处理与小目标检测数据集构建  
-- 使用Python进行模型训练与性能评估  
+---
 
-![实验室实训照片](/images/lab_experience.jpg)
+### 🌱 GIS Spatial Analysis Practice  
+**Tools:** ArcGIS  
+**Content:**  
+- Performed **soil erosion sensitivity analysis** and **suitability mapping for sugarcane cultivation**.  
+- Developed strong command over spatial modeling, raster-based computation, and suitability evaluation.
+
+---
+
+### 🛰️ Photogrammetry and Remote Sensing Practice  
+**Tools:** ENVI, VirtuoZo  
+**Content:**  
+- Conducted image interpretation and processing for **Huixian Wetland**, using multispectral datasets.  
+- Carried out digital photogrammetric workflows including stereo model building and elevation data generation.
+
+---
+
+### 🗃️ Spatial Database Practice  
+**Tools:** PostgreSQL/PostGIS  
+**Content:**  
+- Designed and implemented spatial databases for GIS projects.  
+- Focused on database schema construction, data entry interfaces, and SQL spatial query execution.
+
+---
+
+### 🌐 Location-based Service Development and Application Practice  
+**Tools:** HTML, CSS, JavaScript  
+**Content:**  
+- Developed an interactive **web-based location service application**.  
+- Integrated spatial positioning modules and data visualization on web maps using standard front-end technologies.
 
 ---
 
