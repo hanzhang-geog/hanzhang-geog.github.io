@@ -39,18 +39,23 @@ author_profile: true
 
 - **1st Prize**, Guangxi Division – 13th & 14th National Undergraduate Market Research and Analysis Competition, 2023, 2024
 
+- **Outstanding Project**, Innovation Program on “Road Extraction using Deep Learning”, 2024
+  
 - **Special Prize**, Paper Competition – Guangxi Geo-Science Innovation Contest, 2023
 
 - **3rd Prize**, Guangxi Division – National Mathematical Modeling Competition, 2023
-
-- **Special Prize**, 2nd Guangxi College English Translation Contest  
-- **2nd Prize**, 1st Guangxi College Translation & Adaptation Contest  
-- **3rd Prize**, 1st & 3rd Guangxi College English Translation Contest  
-- **Excellence Award**, 2023 National College English Competition  
-- **3rd Prize**, 2022 National College English Competition
-2021-2023
   
-- **Outstanding Project**, Innovation Program on “Road Extraction using Deep Learning”, 2024
+- **2nd Prize**, 1st Guangxi College Translation & Adaptation Contest, 2023
+
+- **3rd Prize**, 3rd Guangxi College English Translation Contest, 2023
+
+- **Excellence Award**, National College English Competition, 2023
+
+- **Special Prize**, 2nd Guangxi College English Translation Contest, 2022
+
+- **3rd Prize**, National College English Competition, 2022 
+
+- **3rd Prize**, 1st Guangxi College English Translation Contest, 2021   
 
 ---
 
