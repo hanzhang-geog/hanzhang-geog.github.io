@@ -7,13 +7,12 @@ author_profile: true
 
 ## 🏅 Scholarships
 
-- **National Scholarship**（国家奖学金） · *2024*  
+- **National Scholarship**, *2024*  
   Awarded to top-performing students (~1%) for academic excellence and outstanding comprehensive qualities, including research, practice, and campus leadership.
-- **The Special Prize Scholarship**, 2024  
-  Earned consecutively for top 5% GPA ranking within the major.
+  
+- **The Special Prize Scholarship**, *2024*
 
-- **Excellent Freshman Scholarship**（优秀新生奖学金） · *2021*  
-  Granted for top academic achievement upon college entrance.
+- **The First Prize Scholarship**, *2022 & 2023*  
 
 ---
 
