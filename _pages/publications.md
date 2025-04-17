@@ -39,9 +39,8 @@ The proposed model also tests priority levels under COVID-19 scenarios, confirmi
 ## 🔬 Undergraduate Research Projects
 
 ### 1. Road Extraction from Remote Sensing Imagery Based on Deep Learning  
-📅 Mar. 2023 – Mar. 2024  
-🎯 National Undergraduate Innovation and Entrepreneurship Program  
-👤 Role: Project Leader  
+📅 Apr. 2023 – Apr. 2024  
+🎯 National Undergraduate Innovation and Entrepreneurship Program   
 Developed a novel end-to-end CoTPANeXt model integrating multi-scale feature fusion, CoTNeXt attention modules, and global context-aware upsampling. Achieved superior recall and IoU compared to U-Net and ResNet-based models in fine-scale road extraction tasks.
 
 ---
@@ -49,7 +48,6 @@ Developed a novel end-to-end CoTPANeXt model integrating multi-scale feature fus
 ### 2. Inversion of Coastal Chlorophyll-a Concentration Using Mixture Density Network  
 📅 Apr. 2022 – Apr. 2023  
 🎯 National Undergraduate Innovation and Entrepreneurship Program  
-👤 Role: Data Processing & Research Member  
 Applied Himawari-8 satellite imagery to estimate chlorophyll-a concentration in Hong Kong coastal waters. Built a MDN model integrating satellite-reflectance features and Gaussian kernel-based output, providing high-accuracy inversion and spatial trend analysis.
 
 ---
@@ -59,7 +57,7 @@ Applied Himawari-8 satellite imagery to estimate chlorophyll-a concentration in 
 ### 🌊 Estimation of All-Weather Daytime Sea Surface Temperature from Himawari-8 Imagery  
 📅 Dec. 2023  
 🏅 **First Prize (Special)** – Guangxi Undergraduate Geoscience Innovation Contest  
-As team leader, I led the development of a sea surface temperature inversion model based on multi-temporal Himawari-8 data.
+Developed a three-layer stacked machine learning model (TLSM) to improve SST inversion under cloudy conditions, significantly enhancing spatial coverage and accuracy compared to baseline methods.
 
 ---
 
