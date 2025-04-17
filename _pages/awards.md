@@ -7,43 +7,52 @@ author_profile: true
 
 ## 🏅 Scholarships
 
-- **National Scholarship**, *2024*  
+- **National Scholarship**, 2024  
   Awarded to top-performing students (~1%) for academic excellence and outstanding comprehensive qualities, including research, practice, and campus leadership.
   
-- **The Special Prize Scholarship**, *2024*
+- **The Special Prize Scholarship**, 2024
 
-- **The First Prize Scholarship**, *2022 & 2023*  
+- **The First Prize Scholarship**, 2022 & 2023  
 
 ---
 
 ## 🌟 Honors & Titles
 
-- **Outstanding Student Leader of the Year** · *2023*  
-  Recognized for contributions in student organization coordination and mentorship.
+- **Outstanding Graduate**, 2025  
 
-- **Top 10 Students of the College**（十佳大学生） · *2023*  
-  Selected by faculty committee for leadership, service, and academic excellence.
+- **Merit Student**, 2022, 2023, 2024  
 
-- **Excellent League Member**（优秀团员） · *2022*  
-  Acknowledged for active participation in youth development and community work.
+- **Excellent League Member**, 2024  
 
 ---
 
-## 🥇 Competitions & Projects
+## 🥇 Competition Awards
 
-- 🧠 **China College Students’ Innovation and Entrepreneurship Competition**  
-  *Provincial-Level Third Prize* · *2023*  
-  Project: “Remote Sensing-based Typhoon Monitoring using YOLOv8”
+### 🎖 National Level
 
-- 🛰️ **National College GIS Application Skills Competition**  
-  *Team Leader – Provincial Finalist* · *2023*  
-  Tasked with spatial data analysis and thematic map creation.
-
-- 🏆 **University Data Visualization Challenge**  
-  *First Prize* · *2022*  
-  Developed dashboard visualizing urban traffic flow using Python + ArcGIS.
+- **3rd Prize**, 14th National Undergraduate Market Research and Analysis Competition, 2024
+- **Excellence Award**, 12th National College GIS Application Skills Competition, 2023
 
 ---
 
-> 📌 *This section reflects recognitions for both academic and extracurricular excellence throughout my undergraduate journey.*
+### 🏅 Provincial / Regional Level (Guangxi)
+
+- **1st Prize**, Guangxi Division – 13th & 14th National Undergraduate Market Research and Analysis Competition, 2023, 2024
+
+- **Special Prize**, Paper Competition – Guangxi Geo-Science Innovation Contest, 2023
+
+- **3rd Prize**, Guangxi Division – National Mathematical Modeling Competition, 2023
+
+- **Special Prize**, 2nd Guangxi College English Translation Contest  
+- **2nd Prize**, 1st Guangxi College Translation & Adaptation Contest  
+- **3rd Prize**, 1st & 3rd Guangxi College English Translation Contest  
+- **Excellence Award**, 2023 National College English Competition  
+- **3rd Prize**, 2022 National College English Competition
+2021-2023
+  
+- **Outstanding Project**, Innovation Program on “Road Extraction using Deep Learning”, 2024
+
+---
+
+> 📌 *This section highlights key milestones in my academic and extracurricular development.*
 
