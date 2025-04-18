@@ -41,7 +41,7 @@ author_profile: true
 
 ---
 
-#### 🗺️ Fundamental Geographic Information Practice  
+### 🗺️ Fundamental Geographic Information Practice  
 **Tools:** SuperMap, ArcGIS, MapGIS, Handheld GPS  
 **Role:** Team Leader  **Grade:** Excellent  
 **Content:**   
