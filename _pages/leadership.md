@@ -8,7 +8,7 @@ author_profile: true
 ### 👩‍💼 Leadership Experience
 
 - **Secretary of the Youth League Branch & Class President**  
-  *Sep. 2024 – Jun. 2025*  
+  *sept. 2024 – Jun. 2025*  
   Took full leadership of the class and Youth League, coordinating academic and political tasks simultaneously.
 
 - **Lecturer, Peer Teaching Program “Zhihui”**  
@@ -20,11 +20,11 @@ author_profile: true
   Participated in student governance and helped organize university-level activities under the Youth League Committee.
 
 - **Study Secretary**  
-  *Sep. 2023 – Sep. 2024*  
+  *sept. 2023 – sept. 2024*  
   Supported class academic coordination, organized peer study groups, and assisted with coursework-related feedback.
 
 - **Deputy Head of Archives Department, Party Affairs Center, college of Geomatics and Geoinformation**  
-  *Sep. 2022 – Sep. 2023*  
+  *sept. 2022 – sept. 2023*  
   Maintained and organized political records of student members, ensuring accurate documentation of party-related initiatives.
 
 - **Deputy Head, Secretariat, Math Modeling Association**  
@@ -32,7 +32,7 @@ author_profile: true
   Assisted with document management and logistics for academic competitions and association events.
 
 - **Secretary of the Youth League Branch**  
-  *Sep. 2021 – Sep. 2022*  
+  *sept. 2021 – sept. 2022*  
   Led the class Youth League independently, promoted collective unity and managed organizational duties.
   
 <p align="center">
