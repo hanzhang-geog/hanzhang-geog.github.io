@@ -56,6 +56,7 @@ author_profile: true
 > 🛈 *This project was created for academic training only and does not involve any commercial application.*
 
 ---
+
 ### 🌱 GIS Spatial Analysis Practice  
 **Tools:** ArcGIS, ArcScene, Excel  **Grade:** Excellent  
 **Content:**
@@ -85,9 +86,9 @@ Enhanced spatial thinking, map design aesthetic, and model building capability. 
 
 ### 🛰️ Photogrammetry and Remote Sensing Practice  
 **Tools:** VirtuoZo, ENVI  **Grade:** Excellent  
-**Content:**  
--Built stereo photogrammetric models and conducted image orientation, tie point collection, DEM & DOM generation using VirtuoZo.
--Executed remote sensing image correction, mosaicking, fusion, and classification using ENVI, including ISODATA and Maximum Likelihood classification.
+**Content:**    
+-Built stereo photogrammetric models and conducted image orientation, tie point collection, DEM & DOM generation using VirtuoZo.  
+-Executed remote sensing image correction, mosaicking, fusion, and classification using ENVI, including ISODATA and Maximum Likelihood classification.  
 -Engaged in feature extraction and thematic map creation using multi-source imagery and processed a variety of RS workflows from raw data to classified outputs.
 <p align="center">
   <img src="/images/3.png" width="60%"/>
@@ -102,13 +103,13 @@ Enhanced spatial thinking, map design aesthetic, and model building capability. 
 
 ### 🗃️ Spatial Database Practice  
 **Tools:** PostgreSQL, PostGIS, pgAdmin, ArcMap, CAD, GeoServer  **Grade:** Excellent    
-**Content:**   
-- Designed and implemented a spatial database schema for a university campus, including geometry, coding, metadata, and administrative attributes.  
-- Conducted feature extraction from CAD maps (e.g., light poles, hydrants, manholes, vegetation), converted and loaded to PostgreSQL/PostGIS.  
+**Content:**     
+- Designed and implemented a spatial database schema for a university campus, including geometry, coding, metadata, and administrative attributes.    
+- Conducted feature extraction from CAD maps (e.g., light poles, hydrants, manholes, vegetation), converted and loaded to PostgreSQL/PostGIS.    
 - Created and populated spatial tables with SQL for multiple infrastructure layers; executed spatial queries including **ST_Area**, **ST_Within**, **ST_Distance**, and **spatial joins**.  
-- Added advanced features: **stored procedures**, **triggers**, and **dynamic field updates** based on buffer conditions and attribute logic.  
+- Added advanced features: **stored procedures**, **triggers**, and **dynamic field updates** based on buffer conditions and attribute logic.    
 - Published thematic map layers via **GeoServer**, integrating spatial services and web-based data access.  
-- Completed extended tasks including sensor table design and procedural automation for real-time monitoring data.
+- Completed extended tasks including sensor table design and procedural automation for real-time monitoring data.  
 > 🛈 *This project was created for academic training only and does not involve any commercial application.*
 
 ---
@@ -159,7 +160,7 @@ Enhanced spatial thinking, map design aesthetic, and model building capability. 
 </p>
 ---
 
-### ❤️ National Youth Volunteer Programs  
+### 🌙 National Youth Volunteer Programs  
 **Organizer:** China Youth Volunteer Association (中国青年志愿者协会)  
 **Projects Participated:**  
 
@@ -185,6 +186,6 @@ Enhanced spatial thinking, map design aesthetic, and model building capability. 
 
 ---
 
-> 🔍 *Bridging theory and practice through internships and social engagement.*  
-  💬 在实习与社会服务中实现理论与实践的有效融合。
+> 💬 *Bridging theory and practice through internships and social engagement.*  
+   
 
