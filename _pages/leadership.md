@@ -39,7 +39,6 @@ author_profile: true
   <img src="/images/60.png" width="60%"/>
   <img src="/images/67.png" width="60%"/>
   <img src="/images/62.png" width="60%"/>
-  <img src="/images/62.png" width="60%"/>
   <img src="/images/63.png" width="60%"/>
   <img src="/images/64.png" width="60%"/>
   <img src="/images/65.png" width="60%"/>
