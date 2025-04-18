@@ -50,7 +50,7 @@ Authors: Yaqi You, Yuwen Yang, **Han Zhang**
 - 1st Prize – Market Survey Competition (Guangxi), 2024  
 - Special Prize – Geographic Science Innovation (Guangxi), 2023  
 - 3rd Prize – National Mathematical Modeling Contest (Guangxi), 2023  
-- special, 2nd, 3rd, Excellence Prizes – University-level English & Translation Competitions  
+- special, 2nd, 3rd, Excellence Prizes – University-level English & Translation Competitions, 2021, 2022, 2023   
 
 **Scholarships**  
 - National Scholarship (2024)
@@ -65,11 +65,11 @@ Authors: Yaqi You, Yuwen Yang, **Han Zhang**
 ## 💼 Internships
 
 **Data Processing & Analysis Intern**  
-*Hangzhou SensingX Technology Co., Ltd.*  Feb. – Apr. 2024  
+*Hangzhou SensingX Technology Co., Ltd.*    Feb. – Apr. 2024  
 - Classified and annotated underground pipeline defect images according to operation manuals  
 
 **Image Analysis Intern**  
-*Zaozhuang Public Security Bureau, Shizhong Branch Traffic Police Unit*   Dec. 2022 – Feb. 2023  
+*Zaozhuang Public Security Bureau, Shizhong Branch Traffic Police Unit*    Dec. 2022 – Feb. 2023  
 - Classified traffic accident image types for detection and review  
 
 ## 🧪 Practical Training
