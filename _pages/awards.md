@@ -58,5 +58,5 @@ author_profile: true
 
 ---
 
-> 📌 *This section highlights key milestones in my academic and extracurricular development.*
+> *This section highlights key milestones in my academic and extracurricular development.*
 
