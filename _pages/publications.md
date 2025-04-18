@@ -29,7 +29,8 @@ This multi-scale approach offers scientific support for urbanization and rural p
 📄 [📥 Download PDF]( /files/联合国17个可持续发展战略的优先选择—基于模型网络的视角.pdf )
 
 **Abstract:**  
-To enhance the implementation efficiency of the 17 SDGs (Sustainable Development Goals), this study constructs a priority framework based on model coupling. Using grey relational analysis (GRA), ISM (Interpretative Structural Modeling), DEMATEL, and grey forecasting with multiple linear regression, it identifies high-priority goals such as “Industry, Innovation and Infrastructure,” “Good Health,” and “No Poverty.”    
+To enhance the implementation efficiency of the 17 SDGs (Sustainable Development Goals), this study constructs a priority framework based on model coupling. Using grey relational analysis (GRA), ISM (Interpretative Structural Modeling), DEMATEL, and grey forecasting with multiple linear regression, it identifies high-priority goals such as “Industry, Innovation and Infrastructure,” “Good Health,” and “No Poverty.”   
+
 The proposed model also tests priority levels under COVID-19 scenarios, confirming robustness and practical significance for SDG policy-making in China and globally.
 
 **Keywords:** Grey Relational Analysis, Interpretative Structural Modeling, Dematel model, Multiple linear regression.
@@ -40,7 +41,8 @@ The proposed model also tests priority levels under COVID-19 scenarios, confirmi
 
 ### 1. Road Extraction from Remote Sensing Imagery Based on Deep Learning  
 📅 Apr. 2023 – Apr. 2024  
-🎯 National Undergraduate Innovation and Entrepreneurship Program   
+🎯 National Undergraduate Innovation and Entrepreneurship Program  
+
 Developed a novel end-to-end CoTPANeXt model integrating multi-scale feature fusion, CoTNeXt attention modules, and global context-aware upsampling. Achieved superior recall and IoU compared to U-Net and ResNet-based models in fine-scale road extraction tasks.
 
 ---
@@ -48,6 +50,7 @@ Developed a novel end-to-end CoTPANeXt model integrating multi-scale feature fus
 ### 2. Inversion of Coastal Chlorophyll-a Concentration Using Mixture Density Network  
 📅 Apr. 2022 – Apr. 2023  
 🎯 National Undergraduate Innovation and Entrepreneurship Program  
+
 Applied Himawari-8 satellite imagery to estimate chlorophyll-a concentration in Hong Kong coastal waters. Built a MDN model integrating satellite-reflectance features and Gaussian kernel-based output, providing high-accuracy inversion and spatial trend analysis.
 
 ---
@@ -57,6 +60,7 @@ Applied Himawari-8 satellite imagery to estimate chlorophyll-a concentration in 
 ### 🌊 Estimation of All-Weather Daytime Sea Surface Temperature from Himawari-8 Imagery  
 📅 Dec. 2023  
 🏅 **First Prize (Special)** – Guangxi Undergraduate Geoscience Innovation Contest  
+
 Developed a three-layer stacked machine learning model (TLSM) to improve SST inversion under cloudy conditions, significantly enhancing spatial coverage and accuracy compared to baseline methods.
 
 ---
