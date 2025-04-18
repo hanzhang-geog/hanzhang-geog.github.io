@@ -19,13 +19,13 @@ author_profile: true
 ## 📑 Publications 
 
 **Journal Articles**  
-*Analysis and Evaluation of Multi-Scale Spatial Characteristics of Rural Residential Areas*
-Published in: Geomatics & Spatial Information Technology, Vol.47 No.6, 2024
-Authors: Xie Jiali, Han Zhang, Wang Feng, Zhou Bowen  
+*Analysis and Evaluation of Multi-Scale Spatial Characteristics of Rural Residential Areas*  
+Published in: Geomatics & Spatial Information Technology, Vol.47 No.6, 2024  
+Authors: Xie Jiali, Han Zhang, Wang Feng, Zhou Bowen    
 
-*Priority Options for the 17 UN Sustainable Development Strategies — Based on the Model Network Perspective*
-Published in: Business & Management – EMEHSS, Vol.49, 2023
-Authors: Yaqi You, Yuwen Yang, Han Zhang   
+*Priority Options for the 17 UN Sustainable Development Strategies — Based on the Model Network Perspective*  
+Published in: Business & Management – EMEHSS, Vol.49, 2023  
+Authors: Yaqi You, Yuwen Yang, Han Zhang     
 
 ## 📚 Research Experience  
 
