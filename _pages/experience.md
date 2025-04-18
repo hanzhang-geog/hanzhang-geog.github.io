@@ -34,7 +34,8 @@ author_profile: true
 - Achieved a height difference closure error of only **1 mm** in fourth-order leveling, significantly exceeding accuracy standards.  
 - Led a control survey group that obtained the **lowest measurement error across the entire cohort**.
 <p align="center">
-  <img src="/images/1.png" width="30%"/>
+  <img src="/images/1.png" width="60%"/>
+</p> 
 > 🛈 *This project was created for academic training only and does not involve any commercial application.*
 
 ---
@@ -47,9 +48,9 @@ author_profile: true
 - Designed and created thematic maps for **Wuhan City** using **ArcGIS**, including land use and functional zoning.  
 - Conducted topographic survey using **handheld GPS**, and produced a detailed **campus layout map** with precise feature annotation and symbology in MapGIS.
 <p align="center">
-  <img src="/images/guilin.png" width="30%"/>
-  <img src="/images/wuhan.png" width="30%"/>
-  <img src="/images/school.png" width="30%"/>
+  <img src="/images/guilin.png" width="60%"/>
+  <img src="/images/wuhan.png" width="60%"/>
+  <img src="/images/school.png" width="60%"/>
 </p>  
 > 🛈 *This project was created for academic training only and does not involve any commercial application.*
 
@@ -74,9 +75,9 @@ author_profile: true
 **Outcome:**
 Enhanced spatial thinking, map design aesthetic, and model building capability. Developed hands-on skills in ArcGIS/ModelBuilder/AHP/3D visualization and improved the understanding of spatial processes from environmental modeling to cartographic production.
 <p align="center">
-  <img src="/images/ganzhe.png" width="30%"/>
-  <img src="/images/soil.png" width="30%"/>
-  <img src="/images/ter.png" width="30%"/>
+  <img src="/images/ganzhe.png" width="60%"/>
+  <img src="/images/soil.png" width="60%"/>
+  <img src="/images/ter.png" width="60%"/>
 </p>  
 > 🛈 *This project was created for academic training only and does not involve any commercial application.*
 
