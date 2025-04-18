@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-### 👩‍💼 Leadership Experience
+## 👩‍💼 Leadership Experience
 
 - **Secretary of the Youth League Branch & Class President**  
   *sept. 2024 – Jun. 2025*  
