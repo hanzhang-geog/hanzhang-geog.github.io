@@ -47,5 +47,3 @@ The work includes dataset construction from FY-series satellites, model developm
 
 
 ---
-
-> 📌 *如需引用导师信息，请确保链接有效或提前获得授权。如未来有合作论文或项目证明，也可进一步补充。*
