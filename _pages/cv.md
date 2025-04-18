@@ -25,17 +25,22 @@ author_profile: true
 - Built multi-year infrared dataset using FY satellite imagery (2005–2020)  
 - Focused on enhancing model sensitivity to small-scale features and dynamic storm regions  
 
-## 📑 Publications
+**Undergraduate Innovation Projects**
+*Road Extraction from Remote Sensing Imagery Based on Deep Learning*  
+Apr. 2023 – Apr. 2024  
+*Inversion of Coastal Chlorophyll-a Concentration Using Mixture Density Network*  
+Apr. 2022 – Apr. 2023  
 
-**First Author**  
-- *Application of YOLOv8 in Infrared Remote Sensing Target Detection*, Guilin University of Technology, 2024.  
-- *Estimation of Chlorophyll-a Concentration in Coastal Waters Based on Mixture Density Network*, 2023.  
-  → [PDF Available](/files/paper1.pdf)
+## 📑 Publications 
 
-**Team Leader Projects**  
-- *Multi-layer Stacking Himawari-8 SST Estimation*, Special Prize – Guangxi Geographic Science Innovation Competition, 2023  
-- *Fatigue Driving Early Warning Device Purchase Intention Analysis*, National 3rd Prize – Market Survey Competition, 2024  
-- *Fruit Dried Market Demand Analysis in Rural Revitalization*, Guangxi 1st Prize, 2023  
+**Journal Articles**
+*Analysis and Evaluation of Multi-Scale Spatial Characteristics of Rural Residential Areas*
+Published in: Geomatics & Spatial Information Technology, Vol.47 No.6, 2024
+Authors: Xie Jiali, Han Zhang, Wang Feng, Zhou Bowen  
+
+*Priority Options for the 17 UN Sustainable Development Strategies — Based on the Model Network Perspective*
+Published in: Business & Management – EMEHSS, Vol.49, 2023
+Authors: Yaqi You, Yuwen Yang, Han Zhang    
 
 ## 🏆 Awards & Honors
 
@@ -47,13 +52,12 @@ author_profile: true
 - 1st Prize – Market Survey Competition (Guangxi), 2024  
 - Special Prize – Geographic Science Innovation (Guangxi), 2023  
 - 3rd Prize – National Mathematical Modeling Contest (Guangxi), 2023  
-- 1st, 2nd, 3rd Prizes – University-level English & Translation Competitions  
+- special, 2nd, 3rd, Excellence Prizes – University-level English & Translation Competitions  
 
 **Scholarships**  
 - National Scholarship (2024)
 - Special-class Scholarship (2024)  
 - University First-class Scholarship (2022, 2023)  
-
 
 **Honors & Titles**  
 - Outstanding Graduate (2025)  
@@ -63,7 +67,7 @@ author_profile: true
 ## 💼 Internships
 
 **Data Processing & Analysis Intern**  
-*H Hangzhou SensingX Technology Co., Ltd.*  Feb. – Apr. 2024  
+*Hangzhou SensingX Technology Co., Ltd.*  Feb. – Apr. 2024  
 - Classified and annotated underground pipeline defect images according to operation manuals  
 
 **Image Analysis Intern**  
@@ -72,12 +76,12 @@ author_profile: true
 
 ## 🧪 Practical Training
 
-**Surveying Practice**
-**Fundamental GIS Practice** 
-**GIS Spatial Analysis Practice**  
-**Photogrammetry & Remote Sensing Practice**  
-**Spatial Database Practice**  
-**Location-Based Services Practice**  
+- Surveying Practice  
+- Fundamental GIS Practice    
+- GIS Spatial Analysis Practice     
+- Photogrammetry & Remote Sensing Practice      
+- Spatial Database Practice    
+- Location-Based Services Practice   
 
 ## 🌍 Voluntary & Field Activities
 
@@ -103,9 +107,10 @@ author_profile: true
 ## 💡 Skills
 
 **Languages & Tools:**  
-- Python, C#, SQL, HTML/CSS/JS  
-- ArcGIS, ENVI, SuperMap, SketchUp, Unity  
-- PostgreSQL/PostGIS, Pix4D, VirtuoZo  
+-Visual Studio, VS Code, PyCharm, PgAdmin
+- C#, Python, HTML + CSS + JavaScript, SQL
+- ArcGIS, ENVI, SuperMap, MapGIS, CAD, CASS
+- 3ds Max, Unity, SketchUp, Pix4D
 
 **Soft Skills:**  
 - Team leadership, scientific writing, academic communication, peer mentoring  
@@ -114,9 +119,8 @@ author_profile: true
 
 - GIS Level 1 & 2 (NCIE-GIS)  
 - UAV Safety Theory Certificate  
-- Market Research Analyst Certificate  
-- Mandarin Proficiency Certificate  
-
+- Market Research Analyst Certificate
+- 
 ---
 
 📄 *This CV is intended solely for academic and research reference. All project visuals and outputs are student work produced for non-commercial educational use.*
