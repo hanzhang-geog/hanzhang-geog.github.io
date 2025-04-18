@@ -38,7 +38,7 @@ author_profile: true
   C#, Python, HTML + CSS + JavaScript, SQL
 
 - 🌏 **GIS & Remote Sensing Tools**:  
-  ArcGIS, ENVI, SuperMap, MapGIS
+  ArcGIS, ENVI, SuperMap, MapGIS, CAD, CASS
 
 - 📐 **Modeling & Visualization**:  
   3ds Max, Unity, SketchUp, Pix4D
