@@ -29,7 +29,7 @@ This multi-scale approach offers scientific support for urbanization and rural p
 📄 [📥 Download PDF]( /files/联合国17个可持续发展战略的优先选择—基于模型网络的视角.pdf )
 
 **Abstract:**  
-To enhance the implementation efficiency of the 17 SDGs (Sustainable Development Goals), this study constructs a priority framework based on model coupling. Using grey relational analysis (GRA), ISM (Interpretative Structural Modeling), DEMATEL, and grey forecasting with multiple linear regression, it identifies high-priority goals such as “Industry, Innovation and Infrastructure,” “Good Health,” and “No Poverty.”  
+To enhance the implementation efficiency of the 17 SDGs (Sustainable Development Goals), this study constructs a priority framework based on model coupling. Using grey relational analysis (GRA), ISM (Interpretative Structural Modeling), DEMATEL, and grey forecasting with multiple linear regression, it identifies high-priority goals such as “Industry, Innovation and Infrastructure,” “Good Health,” and “No Poverty.”    
 The proposed model also tests priority levels under COVID-19 scenarios, confirming robustness and practical significance for SDG policy-making in China and globally.
 
 **Keywords:** Grey Relational Analysis, Interpretative Structural Modeling, Dematel model, Multiple linear regression.
