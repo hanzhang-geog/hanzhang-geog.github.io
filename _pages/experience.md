@@ -25,7 +25,7 @@ author_profile: true
 
 ### 📏 Surveying Practice  
 **Tools:** Total Station, Level Instrument  
-**Role:** Team Leader  **Grade:** Excellent 
+**Role:** Team Leader  **Grade:** Excellent  
 **Content:**  
 - Conducted **leveling**, **control surveying**, and **detail surveying** in school.  
 - Practiced standardized surveying workflows to ensure accuracy and consistency in spatial data acquisition.  
@@ -39,20 +39,22 @@ author_profile: true
 
 #### 🗺️ Fundamental Geographic Information Practice  
 **Tools:** SuperMap, ArcGIS, MapGIS, Handheld GPS  
-**Role:** Team Leader  **Grade:** Excellent
+**Role:** Team Leader  **Grade:** Excellent  
 **Content:**   
 - Completed spatial data visualization and thematic mapping for **Guilin City** using **SuperMap**, focusing on administrative boundaries and infrastructure.  
 - Designed and created thematic maps for **Wuhan City** using **ArcGIS**, including land use and functional zoning.  
 - Conducted topographic survey using **handheld GPS**, and produced a detailed **campus layout map** with precise feature annotation and symbology in MapGIS.
-![Guilin Map](/images/guilin.jpg)
-![Wuhan Map](/images/wuhan.jpg)
-![school Map](/images/gps.jpg)
+<p align="center">
+  <img src="/images/guilin.jpg" width="30%"/>
+  <img src="/images/wuhan.jpg" width="30%"/>
+  <img src="/images/gps.jpg" width="30%"/>
+</p>  
 > 🛈 *This project was created for academic training only and does not involve any commercial application.*
 
 ---
 > 🛈 The following map products were created solely for academic practice purposes during university GIS coursework. All rights reserved to original data providers.
 ### 🌱 GIS Spatial Analysis Practice  
-**Tools:** ArcGIS, ArcScene, Excel  **Grade:** Excellent 
+**Tools:** ArcGIS, ArcScene, Excel  **Grade:** Excellent  
 **Content:**
 - Conducted **multi-stage GIS modeling** for regional suitability analysis and risk evaluation using interpolation, reclassification, and AHP (Analytic Hierarchy Process).
 - **Project 1: Sugarcane Suitability Analysis**
@@ -77,7 +79,7 @@ Enhanced spatial thinking, map design aesthetic, and model building capability. 
 ---
 
 ### 🛰️ Photogrammetry and Remote Sensing Practice  
-**Tools:** VirtuoZo, ENVI  **Grade:** Excellent
+**Tools:** VirtuoZo, ENVI  **Grade:** Excellent  
 **Content:**  
 -Built stereo photogrammetric models and conducted image orientation, tie point collection, DEM & DOM generation using VirtuoZo.
 -Executed remote sensing image correction, mosaicking, fusion, and classification using ENVI, including ISODATA and Maximum Likelihood classification.
@@ -101,7 +103,7 @@ Enhanced spatial thinking, map design aesthetic, and model building capability. 
 ---
 
 ### 🌐 Location-based Service Development and Application Practice  
-**Tools:** HTML, CSS, JavaScript, MySQL, Baidu Map API  **Grade:** Excellent
+**Tools:** HTML, CSS, JavaScript, MySQL, Baidu Map API  **Grade:** Excellent  
 **Project:** *Guilin River and Lake Monitoring System*  
 **Content:**  
 - Designed and implemented an interactive **LBS web platform** simulating real-world water resource management scenarios.  
