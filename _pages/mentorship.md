@@ -27,7 +27,7 @@ He has extensive experience in managing scientific research projects and enginee
 
 **Title:** *Optimization of Tropical Cyclone Dynamic Detection and Area Estimation Algorithm Based on DynamiCyclone-YOLO*  
 **Supervisor:** Prof. Jingwen Li  
-**Period:** 2024.12 – 2025.5
+**Period:** Dec.2024 – May 2025
 
 This project aims to optimize a deep learning-based method for detecting and measuring tropical cyclones in satellite infrared imagery.  
 It introduces an improved version of the YOLOv8 framework, named **DynamiCyclone-YOLO**, which is specially tailored for:
