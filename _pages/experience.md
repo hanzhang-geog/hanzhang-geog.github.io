@@ -7,12 +7,12 @@ author_profile: true
 
 ## 🏢 Off-campus Internships
 
-### 🏙️ Hangzhou Vision Space-Time Technology Co., Ltd. | Position: Pipeline Defect Monitoring Intern  
+### 🏙️ Hangzhou SensingX Technology Co., Ltd. | Position: Data Processing & Analysis Engineer  
 **Period**: Feb. 2024 – Apr. 2024
 - Annotated urban underground pipeline defects based on standardized technical manuals, accurately classifying them into multiple types such as corrosion, leakage, displacement, etc.  
-- Ensured annotation consistency and high accuracy under a large image volume, contributing to downstream defect recognition algorithms.  .
+- Ensured annotation consistency and high accuracy under a large image volume, contributing to downstream defect recognition algorithms. 
 
-### 🚦 Zaozhuang Public Security Bureau, Shizhong Branch | Position: Traffic Accident Image Analyst Intern  
+### 🚦 Zaozhuang Public Security Bureau, Shizhong Branch Traffic Police Unit | Position: Image Analyst Intern  
 **Period:** Dec. 2022 – Feb. 2023  
 - Categorized and labeled traffic accident images captured by surveillance systems into predefined severity and type categories (e.g., collision, rear-end, rollover).  
 - Worked closely with the police unit’s information department to enhance dataset usability for accident pattern analysis.  
@@ -25,80 +25,127 @@ author_profile: true
 
 ### 📏 Surveying Practice  
 **Tools:** Total Station, Level Instrument  
+**Role:** Team Leader  **Grade:** Excellent 
 **Content:**  
-- Conducted **leveling**, **control surveying**, and **detail surveying** in field settings.  
+- Conducted **leveling**, **control surveying**, and **detail surveying** in school.  
 - Practiced standardized surveying workflows to ensure accuracy and consistency in spatial data acquisition.  
 - Strengthened skills in data recording, instrument operation, and teamwork under field constraints.
+**Highlights:**  
+- Achieved a height difference closure error of only **1 mm** in fourth-order leveling, significantly exceeding accuracy standards.  
+- Led a control survey group that obtained the **lowest measurement error across the entire cohort**.
+> 🛈 *This project was created for academic training only and does not involve any commercial application.*
 
 ---
 
-### 🗺️ Fundamental Geographic Information Practice  
-**Tools:** ArcGIS, SuperMap  
-**Content:**  
-- Designed and produced thematic maps for **Wuhan City** using ArcGIS.  
-- Completed spatial data management and visualization of **Guilin City** with SuperMap.  
-- Practiced full GIS workflow from data import to cartographic layout.
+#### 🗺️ Fundamental Geographic Information Practice  
+**Tools:** SuperMap, ArcGIS, MapGIS, Handheld GPS  
+**Role:** Team Leader  **Grade:** Excellent
+**Content:**   
+- Completed spatial data visualization and thematic mapping for **Guilin City** using **SuperMap**, focusing on administrative boundaries and infrastructure.  
+- Designed and created thematic maps for **Wuhan City** using **ArcGIS**, including land use and functional zoning.  
+- Conducted topographic survey using **handheld GPS**, and produced a detailed **campus layout map** with precise feature annotation and symbology in MapGIS.
+![Guilin Map](/images/guilin.jpg)
+![Wuhan Map](/images/wuhan.jpg)
+![school Map](/images/gps.jpg)
+> 🛈 *This project was created for academic training only and does not involve any commercial application.*
 
 ---
-
+> 🛈 The following map products were created solely for academic practice purposes during university GIS coursework. All rights reserved to original data providers.
 ### 🌱 GIS Spatial Analysis Practice  
-**Tools:** ArcGIS  
-**Content:**  
-- Performed **soil erosion sensitivity analysis** and **suitability mapping for sugarcane cultivation**.  
-- Developed strong command over spatial modeling, raster-based computation, and suitability evaluation.
+**Tools:** ArcGIS, ArcScene, Excel  **Grade:** Excellent 
+**Content:**
+- Conducted **multi-stage GIS modeling** for regional suitability analysis and risk evaluation using interpolation, reclassification, and AHP (Analytic Hierarchy Process).
+- **Project 1: Sugarcane Suitability Analysis**
+  - Performed Kriging interpolation on meteorological data, calculated accumulated temperature and annual mean temperature fields.
+  - Conducted slope analysis and applied weighted overlay with reclassified DEM and climate layers.
+  - Produced a thematic map identifying suitable regions for sugarcane cultivation across Guangxi, highlighting the southern lowland plains.
+- **Project 2: Soil Erosion Risk Mapping**
+  - Generated slope/aspect layers from DEM; processed rainfall, land use, vegetation, and soil data for classification.
+  - Designed a hierarchical structure and calculated AHP weights for each influencing factor.
+  - Created an erosion risk distribution map, revealing higher risks in hilly and central regions.
+- **Project 3: 3D Terrain Visualization & Animation**
+  - Created RGB543 false-color composites and applied NoData masking for preprocessing.
+  - Clipped image scenes and imported to ArcScene, adjusted base heights and vertical exaggeration.
+  - Generated a 3D animated rendering of the wetland landscape, enhancing terrain cognition.
+**Outcome:**
+Enhanced spatial thinking, map design aesthetic, and model building capability. Developed hands-on skills in ArcGIS/ModelBuilder/AHP/3D visualization and improved the understanding of spatial processes from environmental modeling to cartographic production.
+![Sugarcane Suitability Map](/images/ganzhe.jpg)
+![Soil Erosion Risk Map](/images/soil.jpg)
+![3D Terrain Map](/images/ter.jpg)
+> 🛈 *This project was created for academic training only and does not involve any commercial application.*
 
 ---
 
 ### 🛰️ Photogrammetry and Remote Sensing Practice  
-**Tools:** ENVI, VirtuoZo  
+**Tools:** VirtuoZo, ENVI  **Grade:** Excellent
 **Content:**  
-- Conducted image interpretation and processing for **Huixian Wetland**, using multispectral datasets.  
-- Carried out digital photogrammetric workflows including stereo model building and elevation data generation.
-![调研团队合影](/images/summer_social_practice.jpg)
+-Built stereo photogrammetric models and conducted image orientation, tie point collection, DEM & DOM generation using VirtuoZo.
+-Executed remote sensing image correction, mosaicking, fusion, and classification using ENVI, including ISODATA and Maximum Likelihood classification.
+-Engaged in feature extraction and thematic map creation using multi-source imagery and processed a variety of RS workflows from raw data to classified outputs.
+![huixian](/images/2.jpg)
+> 🛈 *This project was created for academic training only and does not involve any commercial application.*
+
 ---
 
 ### 🗃️ Spatial Database Practice  
-**Tools:** PostgreSQL/PostGIS  
-**Content:**  
-- Designed and implemented spatial databases for GIS projects.  
-- Focused on database schema construction, data entry interfaces, and SQL spatial query execution.
+**Tools:** PostgreSQL, PostGIS, pgAdmin, ArcMap, CAD, GeoServer  **Grade:** Excellent    
+**Content:**   
+- Designed and implemented a spatial database schema for a university campus, including geometry, coding, metadata, and administrative attributes.  
+- Conducted feature extraction from CAD maps (e.g., light poles, hydrants, manholes, vegetation), converted and loaded to PostgreSQL/PostGIS.  
+- Created and populated spatial tables with SQL for multiple infrastructure layers; executed spatial queries including **ST_Area**, **ST_Within**, **ST_Distance**, and **spatial joins**.  
+- Added advanced features: **stored procedures**, **triggers**, and **dynamic field updates** based on buffer conditions and attribute logic.  
+- Published thematic map layers via **GeoServer**, integrating spatial services and web-based data access.  
+- Completed extended tasks including sensor table design and procedural automation for real-time monitoring data.
+> 🛈 *This project was created for academic training only and does not involve any commercial application.*
 
 ---
 
 ### 🌐 Location-based Service Development and Application Practice  
-**Tools:** HTML, CSS, JavaScript  
+**Tools:** HTML, CSS, JavaScript, MySQL, Baidu Map API  **Grade:** Excellent
+**Project:** *Guilin River and Lake Monitoring System*  
 **Content:**  
-- Developed an interactive **web-based location service application**.  
-- Integrated spatial positioning modules and data visualization on web maps using standard front-end technologies.
+- Designed and implemented an interactive **LBS web platform** simulating real-world water resource management scenarios.  
+- Integrated **multi-layer map display**, route tracking, spatial querying, and real-time data visualization using **Baidu Maps** and JavaScript.  
+- Developed modules including scenic overview, flood warning, hydrology query, and feedback, emphasizing usability and responsive layout.  
+- Participated in system planning, frontend interface development, and database connection implementation.
+> 🛈 *This project was created for academic training only and does not involve any commercial application.*
 
 ---
 
 ## 🌍 Social Practice
 
-### 🎓 "Three Going to the Countryside" Summer Social Practice  
-**Organizer:** College of Geomatics and Geoinformation, Guilin University of Technology  
+### 🏫 University-Led Rural Practice Activities  
+**Program:** "Three Going to the Countryside" Summer Social Practice  
+**Organizer:** School of Geomatics and Geoinformation, Guilin University of Technology  
 **Years:** 2022, 2023  
-**Location:** Rural areas of Guilin and surrounding regions
+**Locations:** Villages and grassroots enterprises in Guilin area
+- Visited rural revitalization demonstration zones and local memorial halls.
+- Provided hands-on science education for children in rural communities.
+- Interviewed and documented development of local industries.
+- Developed communication and outreach skills by engaging with local government and business representatives.
 
-Participated in a series of nationally guided volunteer and educational outreach programs, integrating scientific knowledge with rural revitalization goals:
+---
+
+### ❤️ National Youth Volunteer Programs  
+**Organizer:** China Youth Volunteer Association (中国青年志愿者协会)  
+**Projects Participated:**  
 
 - **"Two Bombs, One Satellite" Spirit Volunteer Lecture Series**  
-  Delivered public science lectures to promote the spirit of patriotic scientific dedication among youth and villagers.
+  Promoted the patriotic spirit of China's scientific pioneers to rural residents through lectures and multimedia storytelling.
 
 - **"Colorful Holiday" Rural Children Education Program**  
-  Provided science and technology instruction and creative workshops for children in underdeveloped communities.
+  Conducted STEM outreach activities and games for schoolchildren during summer break.
 
 - **"Dream Fulfillment Project" for Underprivileged Students**  
-  Supported education equity by organizing tutoring and learning support for students with limited access to resources.
+  Supported equitable education initiatives through volunteer tutoring and donations.
 
 - **2023 Green Long March Scientific Expedition**  
-  Participated in environmental fieldwork and ecological awareness campaigns, exploring rural green development and sustainability.
-
-In addition, conducted visits to rural revitalization enterprises and local memorial halls to understand grassroots innovation and national memory.
-
+  Participated in ecological field education and rural sustainability campaigns as part of a national science expedition.
 
 ![调研团队合影](/images/summer_social_practice.jpg)
 
 ---
 
-> 📌 **图片说明**：请将图片文件上传到 `/assets/images/` 或 `/images/` 文件夹，并确保在此处路径正确。
+> 🔍 *Bridging theory and practice through internships and social engagement.*  
+  💬 在实习与社会服务中实现理论与实践的有效融合。
+
