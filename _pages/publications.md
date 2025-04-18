@@ -13,13 +13,13 @@ author_profile: true
 📄 [📥 Download PDF]( /files/农村居民点多尺度空间特征分析与评价_谢嘉丽.pdf )
 
 **Abstract:**  
-This study proposes a three-scale (region, block, plot) and three-dimensional (scale, agglomeration, spatial form) framework to analyze the spatial distribution of rural residential areas in Changxing County. A U-net neural network model is employed to extract settlement boundaries from UAV imagery. The results indicate:
+This study proposes a three-scale (region, block, plot) and three-dimensional (scale, agglomeration, spatial form) framework to analyze the spatial distribution of rural residential areas in Changxing County. A U-net neural network model is employed to extract boundaries of settlement from UAV imagery. The results indicate:
 - At the regional scale: land use is intensive and close to policy minimums;
 - At the block scale: significant “hotspot” clustering characteristics are observed;
 - At the plot scale: settlements are mainly strip-like, scattered, and block-shaped with regular forms.  
 This multi-scale approach offers scientific support for urbanization and rural planning in plain areas.
 
-**Keywords:** rural settlements, spatial analysis, U-net, deep learning, multi-scale evaluation
+**Keywords:** rural areas; residential area; spatial characteristic; multi-scale analysis; multi-dimension analysis
 
 ---
 
