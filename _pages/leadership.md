@@ -19,15 +19,15 @@ author_profile: true
   *Oct. 2023 – Oct. 2024*  
   Participated in student governance and helped organize university-level activities under the Youth League Committee.
 
-- **Academic Committee Member**  
+- **Study Secretary**  
   *Sep. 2023 – Sep. 2024*  
   Supported class academic coordination, organized peer study groups, and assisted with coursework-related feedback.
 
-- **Head of Archives Department, Party Affairs Center, School of Geomatics**  
+- **Deputy Head of Archives Department, Party Affairs Center, college of Geomatics and Geoinformation**  
   *Sep. 2022 – Sep. 2023*  
   Maintained and organized political records of student members, ensuring accurate documentation of party-related initiatives.
 
-- **Deputy Director, Secretariat, Math Modeling Association**  
+- **Deputy Head, Secretariat, Math Modeling Association**  
   *Jun. 2022 – Jun. 2023*  
   Assisted with document management and logistics for academic competitions and association events.
 
@@ -44,3 +44,5 @@ author_profile: true
   <img src="/images/65.png" width="60%"/>
   <img src="/images/66.png" width="60%"/>
 </p>
+
+---
