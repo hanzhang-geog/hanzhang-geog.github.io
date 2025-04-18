@@ -9,7 +9,7 @@ author_profile: true
 
 **Guilin University of Technology**  
 *B.Sc. in Geographic Information Science* (Sep. 2021 – Jun. 2025, expected)  
-🌏 Guilin, China    
+🌏 Guilin, China  
 - GPA: 3.74 / 5.0    Rank: 3 / 96  
 - Top 1 in major during junior year  
 - Scored ≥95 in 43 courses, ≥90 in 51 courses  
