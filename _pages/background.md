@@ -16,7 +16,7 @@ author_profile: true
     - Python(95)
     - Remote Sensing (87)  
     - Spatial Database (91)  
-  - Ranked **1st in major during junior year**, with **GPA 4.2 / 5.0**
+  - Ranked **1st in major during junior year**, with **GPA 4.2 / 5.0**  
     scoring **≥95** in **43 courses** and **≥90** in **51 courses** throughout the undergraduate program    
    
 
