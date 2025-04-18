@@ -5,12 +5,12 @@ layout: single
 author_profile: true
 ---
 
-## 🏢 Off-campus Internships
+## 🏢 Off-campus Internships  
 
 ### 🏙️ Hangzhou SensingX Technology Co., Ltd. | Position: Data Processing & Analysis Engineer  
 **Period**: Feb. 2024 – Apr. 2024
 - Annotated urban underground pipeline defects based on standardized technical manuals, accurately classifying them into multiple types such as corrosion, leakage, displacement, etc.  
-- Ensured annotation consistency and high accuracy under a large image volume, contributing to downstream defect recognition algorithms. 
+- Ensured annotation consistency and high accuracy under a large image volume, contributing to downstream defect recognition algorithms.     
 
 ### 🚦 Zaozhuang Public Security Bureau, Shizhong Branch Traffic Police Unit | Position: Image Analyst Intern  
 **Period:** Dec. 2022 – Feb. 2023  
@@ -36,8 +36,8 @@ author_profile: true
 <p align="center">
   <img src="/images/51.png" width="60%"/>
   <img src="/images/1.png" width="60%"/>
-</p> 
-> 🛈 *This project was created for academic training only and does not involve any commercial application.*
+</p>     
+> 🛈 *This project was created for academic training only and does not involve any commercial application.*    
 
 ---
 
@@ -52,8 +52,8 @@ author_profile: true
   <img src="/images/guilin.png" width="60%"/>
   <img src="/images/wuhan.png" width="60%"/>
   <img src="/images/school.png" width="60%"/>
-</p>  
-> 🛈 *This project was created for academic training only and does not involve any commercial application.*
+</p>      
+> 🛈 *This project was created for academic training only and does not involve any commercial application.*    
 
 ---
 
@@ -79,8 +79,8 @@ Enhanced spatial thinking, map design aesthetic, and model building capability. 
   <img src="/images/ganzhe.png" width="60%"/>
   <img src="/images/soil.png" width="60%"/>
   <img src="/images/ter.png" width="60%"/>
-</p>  
-> 🛈 *This project was created for academic training only and does not involve any commercial application.*
+</p>      
+> 🛈 *This project was created for academic training only and does not involve any commercial application.*    
 
 ---
 
@@ -96,8 +96,8 @@ Enhanced spatial thinking, map design aesthetic, and model building capability. 
   <img src="/images/4.png" width="60%"/>
   <img src="/images/5.png" width="60%"/>
   <img src="/images/6.png" width="60%"/>
-</p>  
-> 🛈 *This project was created for academic training only and does not involve any commercial application.*
+</p>      
+> 🛈 *This project was created for academic training only and does not involve any commercial application.*    
 
 ---
 
@@ -109,8 +109,8 @@ Enhanced spatial thinking, map design aesthetic, and model building capability. 
 - Created and populated spatial tables with SQL for multiple infrastructure layers; executed spatial queries including **ST_Area**, **ST_Within**, **ST_Distance**, and **spatial joins**.  
 - Added advanced features: **stored procedures**, **triggers**, and **dynamic field updates** based on buffer conditions and attribute logic.    
 - Published thematic map layers via **GeoServer**, integrating spatial services and web-based data access.  
-- Completed extended tasks including sensor table design and procedural automation for real-time monitoring data.    
-> 🛈 *This project was created for academic training only and does not involve any commercial application.*
+- Completed extended tasks including sensor table design and procedural automation for real-time monitoring data.        
+> 🛈 *This project was created for academic training only and does not involve any commercial application.*  
 
 ---
 
@@ -124,8 +124,8 @@ Enhanced spatial thinking, map design aesthetic, and model building capability. 
 - Participated in system planning, frontend interface development, and database connection implementation.
 <p align="center">
   <img src="/images/hehu.png" width="60%"/> 
-</p>
-> 🛈 *This project was created for academic training only and does not involve any commercial application.*
+</p>    
+> 🛈 *This project was created for academic training only and does not involve any commercial application.*  
 
 ---
 
@@ -157,7 +157,8 @@ Enhanced spatial thinking, map design aesthetic, and model building capability. 
   <img src="/images/32.png" width="60%"/> 
   <img src="/images/20.png" width="60%"/> 
   <img src="/images/21.png" width="60%"/> 
-</p>
+</p>    
+
 ---
 
 ### 🌙 National Youth Volunteer Programs  
@@ -182,7 +183,7 @@ Enhanced spatial thinking, map design aesthetic, and model building capability. 
   <img src="/images/34.png" width="60%"/> 
   <img src="/images/36.png" width="60%"/> 
   <img src="/images/35.png" width="60%"/> 
-</p>
+</p>  
 
 ---
 
