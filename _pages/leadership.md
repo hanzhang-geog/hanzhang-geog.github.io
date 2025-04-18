@@ -1,46 +1,35 @@
----
-title: "Leadership"
-permalink: /leadership/
-layout: single
-author_profile: true
----
+### 🤝 Leadership Experience
 
-## 🎓 校园任职经历
+- **Secretary of the Youth League Branch & Class President**  
+  *Sep. 2024 – Jun. 2025*  
+  Took full leadership of the class and Youth League, coordinating academic and political tasks simultaneously.
 
-### 🔹 GIS协会（地理信息科学协会）会长  
-📅 任职时间：2023年9月 – 2024年6月  
-📍 桂林理工大学  
-📝 职责与成果：
-- 组织策划地理空间技术专题讲座、地图技能竞赛、遥感沙龙等10余场活动；
-- 发起“遥感算法实践小组”，带领成员开展YOLO系列模型实训；
-- 协调校内外导师资源，邀请行业专家进行线上线下指导。
+- **Lecturer, Peer Teaching Program “Zhihui”**  
+  *May 2024 – Jun. 2025*  
+  Delivered peer-based lectures in GIS and related fields, supporting the academic growth of underclassmen.
 
-![GIS协会活动照片](/images/gis_leadership.jpg)
+- **Deputy Director, Student Department, University Youth League Committee**  
+  *Oct. 2023 – Oct. 2024*  
+  Participated in student governance and helped organize university-level activities under the Youth League Committee.
 
----
+- **Academic Committee Member**  
+  *Sep. 2023 – Sep. 2024*  
+  Supported class academic coordination, organized peer study groups, and assisted with coursework-related feedback.
 
-### 🔹 学院学生会宣传部部长  
-📅 任职时间：2022年9月 – 2023年7月  
-📍 地理与测绘学院  
-📝 职责与成果：
-- 主导运营学院微信公众号与线上媒体发布；
-- 设计并完成20余次活动海报、摄影、撰稿工作；
-- 协调团队成员进行分工与培训，提升宣传专业度与效率。
+- **Head of Archives Department, Party Affairs Center, School of Geomatics**  
+  *Sep. 2022 – Sep. 2023*  
+  Maintained and organized political records of student members, ensuring accurate documentation of party-related initiatives.
 
-![学生会工作合影](/images/student_union.jpg)
+- **Deputy Director, Secretariat, Math Modeling Association**  
+  *Jun. 2022 – Jun. 2023*  
+  Assisted with document management and logistics for academic competitions and association events.
 
----
-
-### 🔹 新生班级助导  
-📅 任职时间：2021年9月 – 2022年1月  
-📍 地信2021级新生班  
-📝 职责与成果：
-- 帮助新生适应大学生活，组织学业辅导、宿舍管理协调；
-- 协助班主任召开新生见面会、开展心理健康活动。
-
-![新生班会照片](/images/class_assistant.jpg)
-
----
-
-> 📌 *照片可上传至 `/images/` 或 `/assets/images/`，再按路径替换示例图片链接。*  
-> 如果你有任职证明或表彰也可以加进来作为佐证 👍
+- **Secretary of the Youth League Branch**  
+  *Sep. 2021 – Sep. 2022*  
+  Led the class Youth League independently, promoted collective unity and managed organizational duties.
+  
+<p align="center">
+  <img src="/files/图1路径.png" width="30%" style="margin-right:10px;"/>
+  <img src="/files/图2路径.png" width="30%" style="margin-right:10px;"/>
+  <img src="/files/图3路径.png" width="30%"/>
+</p>
