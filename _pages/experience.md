@@ -34,6 +34,7 @@ author_profile: true
 - Achieved a height difference closure error of only **1 mm** in fourth-order leveling, significantly exceeding accuracy standards.  
 - Led a control survey group that obtained the **lowest measurement error across the entire cohort**.
 <p align="center">
+  <img src="/images/51.png" width="60%"/>
   <img src="/images/1.png" width="60%"/>
 </p> 
 > 🛈 *This project was created for academic training only and does not involve any commercial application.*
@@ -51,13 +52,10 @@ author_profile: true
   <img src="/images/guilin.png" width="60%"/>
   <img src="/images/wuhan.png" width="60%"/>
   <img src="/images/school.png" width="60%"/>
-</p>
-
 </p>  
 > 🛈 *This project was created for academic training only and does not involve any commercial application.*
 
 ---
-> 🛈 The following map products were created solely for academic practice purposes during university GIS coursework. All rights reserved to original data providers.
 ### 🌱 GIS Spatial Analysis Practice  
 **Tools:** ArcGIS, ArcScene, Excel  **Grade:** Excellent  
 **Content:**
@@ -141,7 +139,24 @@ Enhanced spatial thinking, map design aesthetic, and model building capability. 
 - Provided hands-on science education for children in rural communities.
 - Interviewed and documented development of local industries.
 - Developed communication and outreach skills by engaging with local government and business representatives.
-
+<p align="center">
+  <img src="/images/11.png" width="60%"/> 
+  <img src="/images/12.png" width="60%"/> 
+  <img src="/images/san1.png" width="60%"/>
+  <img src="/images/02.png" width="60%"/> 
+  <img src="/images/03.png" width="60%"/> 
+  <img src="/images/04.png" width="60%"/> 
+  <img src="/images/13.png" width="60%"/> 
+  <img src="/images/14.png" width="60%"/> 
+  <img src="/images/15.png" width="60%"/> 
+  <img src="/images/16.png" width="60%"/> 
+  <img src="/images/17.png" width="60%"/> 
+  <img src="/images/18.png" width="60%"/> 
+  <img src="/images/19.png" width="60%"/> 
+  <img src="/images/32.png" width="60%"/> 
+  <img src="/images/20.png" width="60%"/> 
+  <img src="/images/21.png" width="60%"/> 
+</p>
 ---
 
 ### ❤️ National Youth Volunteer Programs  
@@ -159,8 +174,14 @@ Enhanced spatial thinking, map design aesthetic, and model building capability. 
 
 - **2023 Green Long March Scientific Expedition**  
   Participated in ecological field education and rural sustainability campaigns as part of a national science expedition.
-
-![调研团队合影](/images/summer_social_practice.jpg)
+<p align="center">
+  <img src="/images/30.png" width="60%"/> 
+  <img src="/images/31.png" width="60%"/> 
+  <img src="/images/33.png" width="60%"/>
+  <img src="/images/34.png" width="60%"/> 
+  <img src="/images/36.png" width="60%"/> 
+  <img src="/images/35.png" width="60%"/> 
+</p>
 
 ---
 
