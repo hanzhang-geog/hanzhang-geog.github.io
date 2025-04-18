@@ -54,7 +54,7 @@ author_profile: true
 **Content:**  
 - Conducted image interpretation and processing for **Huixian Wetland**, using multispectral datasets.  
 - Carried out digital photogrammetric workflows including stereo model building and elevation data generation.
-
+![调研团队合影](/images/summer_social_practice.jpg)
 ---
 
 ### 🗃️ Spatial Database Practice  
@@ -73,14 +73,29 @@ author_profile: true
 
 ---
 
-## 🌍 社会实践
+## 🌍 Social Practice
 
-### 🔹 2023暑期社会实践 | 广西玉林市乡村振兴调查  
-📅 时间：2023年7月  
-📝 内容摘要：  
-- 参与乡村GIS数据采集与问卷调查  
-- 进行卫星遥感影像变化检测分析  
-- 撰写调研报告并汇报成果  
+### 🎓 "Three Going to the Countryside" Summer Social Practice  
+**Organizer:** College of Geomatics and Geoinformation, Guilin University of Technology  
+**Years:** 2022, 2023  
+**Location:** Rural areas of Guilin and surrounding regions
+
+Participated in a series of nationally guided volunteer and educational outreach programs, integrating scientific knowledge with rural revitalization goals:
+
+- **"Two Bombs, One Satellite" Spirit Volunteer Lecture Series**  
+  Delivered public science lectures to promote the spirit of patriotic scientific dedication among youth and villagers.
+
+- **"Colorful Holiday" Rural Children Education Program**  
+  Provided science and technology instruction and creative workshops for children in underdeveloped communities.
+
+- **"Dream Fulfillment Project" for Underprivileged Students**  
+  Supported education equity by organizing tutoring and learning support for students with limited access to resources.
+
+- **2023 Green Long March Scientific Expedition**  
+  Participated in environmental fieldwork and ecological awareness campaigns, exploring rural green development and sustainability.
+
+In addition, conducted visits to rural revitalization enterprises and local memorial halls to understand grassroots innovation and national memory.
+
 
 ![调研团队合影](/images/summer_social_practice.jpg)
 
