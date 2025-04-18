@@ -39,11 +39,3 @@ It introduces an improved version of the YOLOv8 framework, named **DynamiCyclone
 The work includes dataset construction from FY-series satellites, model development and training, and performance validation using real-world typhoon cases.
 
 ---
-
-## 🗣️ Supervisor's Message
-
-> *“May you set sail with professionalism and steer with exploration, navigating through the ocean of remote sensing science.”*  
-> — Prof. Jingwen Li
-
-
----
