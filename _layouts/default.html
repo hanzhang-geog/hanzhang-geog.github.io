@@ -7,11 +7,8 @@ layout: compress
 <!doctype html>
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js"{% if site.site_theme == "dark" %} data-theme="dark"{% endif %}>
   <head>
-    <footer>
-  {% include footer/custom.html %}
-  {% include footer.html %}  
-</footer>
-
+    {% include head.html %}
+    {% include head/custom.html %}
   </head>
 
   <body>
