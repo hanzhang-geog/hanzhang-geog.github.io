@@ -16,31 +16,29 @@ author_profile: true
 - *Minor: Big Data Intelligent Mapping and Simulation*
 - GPA: 4.26 / 5.0
   
-## 📚 Research Experience
-
-**Undergraduate Thesis**  
-*Dynamic Detection and Area Estimation of Tropical Cyclones Based on DynamiCyclone-YOLO*  
-📅 2024.11 – Present | Supervisor: Prof. Jingwen Li  
-- Developed an improved YOLOv8-based model for detecting tropical cyclones in infrared remote sensing images  
-- Built multi-year infrared dataset using FY satellite imagery (2005–2020)  
-- Focused on enhancing model sensitivity to small-scale features and dynamic storm regions  
-
-**Undergraduate Innovation Projects**
-*Road Extraction from Remote Sensing Imagery Based on Deep Learning*  
-Apr. 2023 – Apr. 2024  
-*Inversion of Coastal Chlorophyll-a Concentration Using Mixture Density Network*  
-Apr. 2022 – Apr. 2023  
-
 ## 📑 Publications 
 
-**Journal Articles**
+**Journal Articles**  
 *Analysis and Evaluation of Multi-Scale Spatial Characteristics of Rural Residential Areas*
 Published in: Geomatics & Spatial Information Technology, Vol.47 No.6, 2024
 Authors: Xie Jiali, Han Zhang, Wang Feng, Zhou Bowen  
 
 *Priority Options for the 17 UN Sustainable Development Strategies — Based on the Model Network Perspective*
 Published in: Business & Management – EMEHSS, Vol.49, 2023
-Authors: Yaqi You, Yuwen Yang, Han Zhang    
+Authors: Yaqi You, Yuwen Yang, Han Zhang   
+
+## 📚 Research Experience  
+
+**Undergraduate Thesis**    
+*Dynamic Detection and Area Estimation of Tropical Cyclones Based on DynamiCyclone-YOLO*  
+2024.11 – Present | Supervisor: Prof. Jingwen Li    
+- Developed an improved YOLOv8-based model for detecting tropical cyclones in infrared remote sensing images  
+- Built multi-year infrared dataset using FY satellite imagery (2005–2020)  
+- Focused on enhancing model sensitivity to small-scale features and dynamic storm regions  
+
+**Undergraduate Innovation Projects**  
+*Road Extraction from Remote Sensing Imagery Based on Deep Learning*  Apr. 2023 – Apr. 2024  
+*Inversion of Coastal Chlorophyll-a Concentration Using Mixture Density Network*  Apr. 2022 – Apr. 2023   
 
 ## 🏆 Awards & Honors
 
