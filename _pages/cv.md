@@ -63,17 +63,14 @@ Authors: Yaqi You, Yuwen Yang, **Han Zhang**
 - Excellent Youth League Member (2024)
 
 ## 💼 Internships
-
-**Data Processing & Analysis Intern**  
-*Hangzhou SensingX Technology Co., Ltd.*    Feb. – Apr. 2024  
+**Off-campus Internships**  
+*Hangzhou SensingX Technology Co., Ltd.*    Data Processing & Analysis Intern    Feb. – Apr. 2024  
 - Classified and annotated underground pipeline defect images according to operation manuals  
-
-**Image Analysis Intern**  
-*Zaozhuang Public Security Bureau, Shizhong Branch Traffic Police Unit*    Dec. 2022 – Feb. 2023  
+ 
+*Zaozhuang Public Security Bureau, Shizhong Branch Traffic Police Unit*    Image Analysis Intern    Dec. 2022 – Feb. 2023  
 - Classified traffic accident image types for detection and review  
 
-## 🧪 Practical Training
-
+**On-campus Internships**  
 - Surveying Practice  
 - Fundamental GIS Practice    
 - GIS Spatial Analysis Practice     
