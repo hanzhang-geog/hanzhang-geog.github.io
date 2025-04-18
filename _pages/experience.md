@@ -33,6 +33,8 @@ author_profile: true
 **Highlights:**  
 - Achieved a height difference closure error of only **1 mm** in fourth-order leveling, significantly exceeding accuracy standards.  
 - Led a control survey group that obtained the **lowest measurement error across the entire cohort**.
+<p align="center">
+  <img src="/images/1.png" width="30%"/>
 > 🛈 *This project was created for academic training only and does not involve any commercial application.*
 
 ---
@@ -45,9 +47,9 @@ author_profile: true
 - Designed and created thematic maps for **Wuhan City** using **ArcGIS**, including land use and functional zoning.  
 - Conducted topographic survey using **handheld GPS**, and produced a detailed **campus layout map** with precise feature annotation and symbology in MapGIS.
 <p align="center">
-  <img src="/images/guilin.jpg" width="30%"/>
-  <img src="/images/wuhan.jpg" width="30%"/>
-  <img src="/images/gps.jpg" width="30%"/>
+  <img src="/images/guilin.png" width="30%"/>
+  <img src="/images/wuhan.png" width="30%"/>
+  <img src="/images/school.png" width="30%"/>
 </p>  
 > 🛈 *This project was created for academic training only and does not involve any commercial application.*
 
@@ -71,9 +73,11 @@ author_profile: true
   - Generated a 3D animated rendering of the wetland landscape, enhancing terrain cognition.
 **Outcome:**
 Enhanced spatial thinking, map design aesthetic, and model building capability. Developed hands-on skills in ArcGIS/ModelBuilder/AHP/3D visualization and improved the understanding of spatial processes from environmental modeling to cartographic production.
-![Sugarcane Suitability Map](/images/ganzhe.jpg)
-![Soil Erosion Risk Map](/images/soil.jpg)
-![3D Terrain Map](/images/ter.jpg)
+<p align="center">
+  <img src="/images/ganzhe.png" width="30%"/>
+  <img src="/images/soil.png" width="30%"/>
+  <img src="/images/ter.png" width="30%"/>
+</p>  
 > 🛈 *This project was created for academic training only and does not involve any commercial application.*
 
 ---
@@ -84,7 +88,13 @@ Enhanced spatial thinking, map design aesthetic, and model building capability. 
 -Built stereo photogrammetric models and conducted image orientation, tie point collection, DEM & DOM generation using VirtuoZo.
 -Executed remote sensing image correction, mosaicking, fusion, and classification using ENVI, including ISODATA and Maximum Likelihood classification.
 -Engaged in feature extraction and thematic map creation using multi-source imagery and processed a variety of RS workflows from raw data to classified outputs.
-![huixian](/images/2.jpg)
+<p align="center">
+  <img src="/images/3.png" width="60%"/>
+  <img src="/images/2.png" width="60%"/>
+  <img src="/images/4.png" width="60%"/>
+  <img src="/images/5.png" width="60%"/>
+  <img src="/images/6.png" width="60%"/>
+</p>  
 > 🛈 *This project was created for academic training only and does not involve any commercial application.*
 
 ---
@@ -110,6 +120,9 @@ Enhanced spatial thinking, map design aesthetic, and model building capability. 
 - Integrated **multi-layer map display**, route tracking, spatial querying, and real-time data visualization using **Baidu Maps** and JavaScript.  
 - Developed modules including scenic overview, flood warning, hydrology query, and feedback, emphasizing usability and responsive layout.  
 - Participated in system planning, frontend interface development, and database connection implementation.
+<p align="center">
+  <img src="/images/hehu.png" width="60%"/> 
+</p>
 > 🛈 *This project was created for academic training only and does not involve any commercial application.*
 
 ---
