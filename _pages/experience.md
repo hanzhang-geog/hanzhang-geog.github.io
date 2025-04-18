@@ -51,6 +51,8 @@ author_profile: true
   <img src="/images/guilin.png" width="60%"/>
   <img src="/images/wuhan.png" width="60%"/>
   <img src="/images/school.png" width="60%"/>
+</p>
+
 </p>  
 > 🛈 *This project was created for academic training only and does not involve any commercial application.*
 
