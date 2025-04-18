@@ -1,4 +1,11 @@
-### 🤝 Leadership Experience
+---
+title: "Leadership"
+permalink: /leadership/
+layout: single
+author_profile: true
+---
+
+### 👩‍💼 Leadership Experience
 
 - **Secretary of the Youth League Branch & Class President**  
   *Sep. 2024 – Jun. 2025*  
@@ -29,7 +36,12 @@
   Led the class Youth League independently, promoted collective unity and managed organizational duties.
   
 <p align="center">
-  <img src="/files/图1路径.png" width="30%" style="margin-right:10px;"/>
-  <img src="/files/图2路径.png" width="30%" style="margin-right:10px;"/>
-  <img src="/files/图3路径.png" width="30%"/>
+  <img src="/files/60.png" width="30%"/>
+  <img src="/files/67.png" width="30%"/>
+  <img src="/files/62.png" width="30%"/>
+  <img src="/files/62.png" width="30%"/>
+  <img src="/files/63.png" width="30%"/>
+  <img src="/files/64.png" width="30%"/>
+  <img src="/files/65.png" width="30%"/>
+  <img src="/files/66.png" width="30%"/>
 </p>
