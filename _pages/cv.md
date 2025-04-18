@@ -8,7 +8,7 @@ author_profile: true
 ## 🧑‍🎓 Education
 
 **Guilin University of Technology**  
-*B.Sc. in Geographic Information Science* (Sep. 2021 – Jun. 2025, expected)  
+*B.Sc. in Geographic Information Science* (sept. 2021 – Jun. 2025, expected)  
 🌏 Guilin, China  
 - GPA: 3.74 / 5.0    Rank: 3 / 96  
 - Top 1 in major during junior year  
@@ -62,7 +62,7 @@ Authors: Yaqi You, Yuwen Yang, **Han Zhang**
 - “Three-Good Student” (2022, 2023, 2024)  
 - Excellent Youth League Member (2024)
 
-## 💼 Internships
+## 💼 Internships  
 **Off-campus Internships**  
 *Hangzhou SensingX Technology Co., Ltd.*    Data Processing & Analysis Intern    Feb. – Apr. 2024  
 - Classified and annotated underground pipeline defect images according to operation manuals  
@@ -72,11 +72,11 @@ Authors: Yaqi You, Yuwen Yang, **Han Zhang**
 
 **On-campus Internships**  
 - Surveying Practice  
-- Fundamental GIS Practice    
+- Fundamental Geographic Information Practice    
 - GIS Spatial Analysis Practice     
 - Photogrammetry & Remote Sensing Practice      
 - Spatial Database Practice    
-- Location-Based Services Practice   
+- Location-based Service Development and Application Practice   
 
 ## 🌍 Voluntary & Field Activities
 
@@ -86,23 +86,23 @@ Authors: Yaqi You, Yuwen Yang, **Han Zhang**
 - “Dream Project” – Educational Outreach  
 - Green Long March Field Science Campaign 2023  
 
-**Rural Engagement – Guilin University of Technology**  
+**Three Going to the Countryside – Guilin University of Technology**  
 - Summer Fieldwork in 2022 & 2023 for education and tech dissemination in rural areas  
 
 ## 👥 Leadership
 
-- 🎓 Head of Class & Youth League Secretary (2024.9 – 2025.6)  
-- 🎙 Peer Lecturer – Smart Mapping Training Group (2024.5 – 2025.6)  
-- 🎯 Deputy Director – Student Department, Youth League Committee (2023.10 – 2024.10)  
-- 📘 Academic Monitor (2023.9 – 2024.9)  
-- 📊 Vice Minister – Modeling Society (2022.6 – 2023.6)  
-- 🗃️ Director – Archives Dept., Party Affairs Center (2022.9 – 2023.9)  
-- 🌱 Youth League Secretary (2021.9 – 2022.9)  
+- 🎓 Secretary of the Youth League Branch & Class President (sept. 2024 – Jun. 2025)  
+- 🎙 Lecturer, Peer Teaching Program “Zhihui” (May 2024 – Jun. 2025)  
+- 🎯 Deputy Director, Student Department, University Youth League Committee (Oct. 2023 – Oct. 2024)  
+- 📘 Study Secretary (sept. 2023 – sept. 2024)  
+- 🗃️ Deputy Head of Archives Department, Party Affairs Center, college of Geomatics and Geoinformation(Sept. 2022 – Sept. 2023)
+- 📊 Deputy Head, Secretariat, Math Modeling Association (Jun. 2022 – Jun. 2023)  
+- 🌱 Secretary of the Youth League Branch (Sept. 2021 – Sept. 2022)  
 
 ## 💡 Skills
 
 **Languages & Tools:**  
--Visual Studio, VS Code, PyCharm, PgAdmin
+- Visual Studio, VS Code, PyCharm, PgAdmin
 - C#, Python, HTML + CSS + JavaScript, SQL
 - ArcGIS, ENVI, SuperMap, MapGIS, CAD, CASS
 - 3ds Max, Unity, SketchUp, Pix4D
@@ -115,7 +115,7 @@ Authors: Yaqi You, Yuwen Yang, **Han Zhang**
 - GIS Level 1 & 2 (NCIE-GIS)  
 - UAV Safety Theory Certificate  
 - Market Research Analyst Certificate
-- 
+  
 ---
 
 📄 *This CV is intended solely for academic and research reference. All project visuals and outputs are student work produced for non-commercial educational use.*
