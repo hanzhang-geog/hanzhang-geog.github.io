@@ -32,7 +32,7 @@ This multi-scale approach offers scientific support for urbanization and rural p
 To enhance the implementation efficiency of the 17 SDGs (Sustainable Development Goals), this study constructs a priority framework based on model coupling. Using grey relational analysis (GRA), ISM (Interpretative Structural Modeling), DEMATEL, and grey forecasting with multiple linear regression, it identifies high-priority goals such as “Industry, Innovation and Infrastructure,” “Good Health,” and “No Poverty.”  
 The proposed model also tests priority levels under COVID-19 scenarios, confirming robustness and practical significance for SDG policy-making in China and globally.
 
-**Keywords:** SDGs, DEMATEL, GRA-ISM, prioritization, sustainability modeling
+**Keywords:** Grey Relational Analysis, Interpretative Structural Modeling, Dematel model, Multiple linear regression.
 
 ---
 
@@ -73,4 +73,4 @@ Developed a three-layer stacked machine learning model (TLSM) to improve SST inv
 
 ---
 
-*More updates to be added upon project completion or publication.*
+> *More updates to be added upon project completion or publication.*
