@@ -37,8 +37,8 @@ Authors: Yaqi You, Yuwen Yang, **Han Zhang**
 - Focused on enhancing model sensitivity to small-scale features and dynamic storm regions  
 
 **Undergraduate Innovation Projects**  
-*Road Extraction from Remote Sensing Imagery Based on Deep Learning*  Apr. 2023 – Apr. 2024  
-*Inversion of Coastal Chlorophyll-a Concentration Using Mixture Density Network*  Apr. 2022 – Apr. 2023   
+*Road Extraction from Remote Sensing Imagery Based on Deep Learning*    Apr. 2023 – Apr. 2024  
+*Inversion of Coastal Chlorophyll-a Concentration Using Mixture Density Network*    Apr. 2022 – Apr. 2023   
 
 ## 🏆 Awards & Honors
 
