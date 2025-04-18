@@ -8,20 +8,21 @@ author_profile: true
 ## 🧑‍🎓 Education
 
 **Guilin University of Technology**  
-*B.Sc. in Geographic Information Science* (Sep 2021 – Jun 2025, expected)  
-📍 Guilin, China  
-- Minor: Big Data Intelligent Mapping and Simulation  
-- GPA: 3.74 / 5.0  |  Rank: 3 / 96  
+*B.Sc. in Geographic Information Science* (Sep. 2021 – Jun. 2025, expected)  
+🌏 Guilin, China    
+- GPA: 3.74 / 5.0    Rank: 3 / 96  
 - Top 1 in major during junior year  
 - Scored ≥95 in 43 courses, ≥90 in 51 courses  
-
+- *Minor: Big Data Intelligent Mapping and Simulation*
+- GPA: 4.26 / 5.0
+  
 ## 📚 Research Experience
 
 **Undergraduate Thesis**  
 *Dynamic Detection and Area Estimation of Tropical Cyclones Based on DynamiCyclone-YOLO*  
-📅 2023.11 – Present | Supervisor: Prof. Jingwen Li  
+📅 2024.11 – Present | Supervisor: Prof. Jingwen Li  
 - Developed an improved YOLOv8-based model for detecting tropical cyclones in infrared remote sensing images  
-- Built multi-year infrared dataset using FY satellite imagery (2004–2020)  
+- Built multi-year infrared dataset using FY satellite imagery (2005–2020)  
 - Focused on enhancing model sensitivity to small-scale features and dynamic storm regions  
 
 ## 📑 Publications
@@ -49,9 +50,10 @@ author_profile: true
 - 1st, 2nd, 3rd Prizes – University-level English & Translation Competitions  
 
 **Scholarships**  
-- National Scholarship  
-- University First-class Scholarship (2022, 2023)  
+- National Scholarship (2024)
 - Special-class Scholarship (2024)  
+- University First-class Scholarship (2022, 2023)  
+
 
 **Honors & Titles**  
 - Outstanding Graduate (2025)  
@@ -61,38 +63,21 @@ author_profile: true
 ## 💼 Internships
 
 **Data Processing & Analysis Intern**  
-*Hangzhou Shiyuan Shikong Future Technology Co., Ltd.*  
-📍 Hangzhou, China | Feb – Apr 2024  
+*H Hangzhou SensingX Technology Co., Ltd.*  Feb. – Apr. 2024  
 - Classified and annotated underground pipeline defect images according to operation manuals  
-- 🌟 Grade: Excellent
 
 **Image Analysis Intern**  
-*Traffic Police Unit, Zaozhuang Public Security Bureau*  
-📍 Zaozhuang, China | Dec 2022 – Feb 2023  
+*Zaozhuang Public Security Bureau, Shizhong Branch Traffic Police Unit*   Dec. 2022 – Feb. 2023  
 - Classified traffic accident image types for detection and review  
-- 🌟 Grade: Excellent
 
 ## 🧪 Practical Training
 
+**Surveying Practice**
+**Fundamental GIS Practice** 
 **GIS Spatial Analysis Practice**  
-- Conducted soil erosion sensitivity analysis and sugarcane suitability evaluation  
-- 🌟 Grade: Excellent
-
 **Photogrammetry & Remote Sensing Practice**  
-- Interpreted Huixian Wetland images using ENVI and VirtuoZo  
-- 🌟 Grade: Excellent
-
 **Spatial Database Practice**  
-- Built and queried PostgreSQL/PostGIS databases for GIS datasets  
-- 🌟 Grade: Excellent
-
 **Location-Based Services Practice**  
-- Developed location-based web app using HTML, CSS, and JavaScript  
-- 🌟 Grade: Excellent
-
-**Fundamental GIS Practice**  
-- Produced thematic maps for Guilin, Wuhan, and university campus  
-- 🌟 Grade: Excellent
 
 ## 🌍 Voluntary & Field Activities
 
