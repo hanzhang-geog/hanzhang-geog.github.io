@@ -16,7 +16,8 @@ author_profile: true
     - Python(95)
     - Technology and Application of Remote Sensing (87)  
     - Principles and Applications of Spatial Database (91)  
-  -  Ranked **1st in major during junior year**, with **GPA 4.2 / 5.0**, scoring **≥95** in **43 courses** and **≥90** in **51 courses** throughout the undergraduate program    
+  -  Ranked **1st in major during junior year**, with **GPA 4.2 / 5.0**
+     scoring **≥95** in **43 courses** and **≥90** in **51 courses** throughout the undergraduate program    
    
 
 - **Minor**: Big Data Intelligent Drawing and Simulation    *Sept. 2023 – Jun. 2025*  
