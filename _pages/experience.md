@@ -109,7 +109,7 @@ Enhanced spatial thinking, map design aesthetic, and model building capability. 
 - Created and populated spatial tables with SQL for multiple infrastructure layers; executed spatial queries including **ST_Area**, **ST_Within**, **ST_Distance**, and **spatial joins**.  
 - Added advanced features: **stored procedures**, **triggers**, and **dynamic field updates** based on buffer conditions and attribute logic.    
 - Published thematic map layers via **GeoServer**, integrating spatial services and web-based data access.  
-- Completed extended tasks including sensor table design and procedural automation for real-time monitoring data.  
+- Completed extended tasks including sensor table design and procedural automation for real-time monitoring data.    
 > 🛈 *This project was created for academic training only and does not involve any commercial application.*
 
 ---
