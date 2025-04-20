@@ -26,6 +26,7 @@ author_profile: true
 ### 📏 Surveying Practice  
 **Tools:** Total Station, Level Instrument  
 **Role:** Team Leader  **Grade:** Excellent  
+
 **Content:**  
 - Conducted **leveling**, **control surveying**, and **detail surveying** in school.  
 - Practiced standardized surveying workflows to ensure accuracy and consistency in spatial data acquisition.  
