@@ -46,6 +46,7 @@ author_profile: true
 ### 🗺️ Fundamental Geographic Information Practice  
 **Tools:** SuperMap, ArcGIS, MapGIS, Handheld GPS  
 **Role:** Team Leader  **Grade:** Excellent  
+
 **Content:**   
 - Completed spatial data visualization and thematic mapping for **Guilin City** using **SuperMap**, focusing on administrative boundaries and infrastructure.  
 - Designed and created thematic maps for **Wuhan City** using **ArcGIS**, including land use and functional zoning.  
@@ -61,6 +62,7 @@ author_profile: true
 
 ### 🌱 GIS Spatial Analysis Practice  
 **Tools:** ArcGIS, ArcScene, Excel  **Grade:** Excellent  
+
 **Content:**
 - Conducted **multi-stage GIS modeling** for regional suitability analysis and risk evaluation using interpolation, reclassification, and AHP (Analytic Hierarchy Process).
 - **Project 1: Sugarcane Suitability Analysis**
@@ -88,6 +90,7 @@ Enhanced spatial thinking, map design aesthetic, and model building capability. 
 
 ### 🛰️ Photogrammetry and Remote Sensing Practice  
 **Tools:** VirtuoZo, ENVI  **Grade:** Excellent  
+
 **Content:**    
 -Built stereo photogrammetric models and conducted image orientation, tie point collection, DEM & DOM generation using VirtuoZo.  
 -Executed remote sensing image correction, mosaicking, fusion, and classification using ENVI, including ISODATA and Maximum Likelihood classification.  
@@ -104,7 +107,8 @@ Enhanced spatial thinking, map design aesthetic, and model building capability. 
 ---
 
 ### 🗃️ Spatial Database Practice  
-**Tools:** PostgreSQL, PostGIS, pgAdmin, ArcMap, CAD, GeoServer  **Grade:** Excellent    
+**Tools:** PostgreSQL, PostGIS, pgAdmin, ArcMap, CAD, GeoServer  **Grade:** Excellent  
+
 **Content:**     
 - Designed and implemented a spatial database schema for a university campus, including geometry, coding, metadata, and administrative attributes.    
 - Conducted feature extraction from CAD maps (e.g., light poles, hydrants, manholes, vegetation), converted and loaded to PostgreSQL/PostGIS.    
@@ -119,6 +123,7 @@ Enhanced spatial thinking, map design aesthetic, and model building capability. 
 ### 🌐 Location-based Service Development and Application Practice  
 **Tools:** HTML, CSS, JavaScript, MySQL, Baidu Map API  **Grade:** Excellent  
 **Project:** *Guilin River and Lake Monitoring System*  
+
 **Content:**  
 - Designed and implemented an interactive **LBS web platform** simulating real-world water resource management scenarios.  
 - Integrated **multi-layer map display**, route tracking, spatial querying, and real-time data visualization using **Baidu Maps** and JavaScript.  
