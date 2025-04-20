@@ -29,7 +29,7 @@ author_profile: true
 **Content:**  
 - Conducted **leveling**, **control surveying**, and **detail surveying** in school.  
 - Practiced standardized surveying workflows to ensure accuracy and consistency in spatial data acquisition.  
-- Strengthened skills in data recording, instrument operation, and teamwork under field constraints.
+- Strengthened skills in data recording, instrument operation, and teamwork under field constraints.  
 **Highlights:**  
 - Achieved a height difference closure error of only **1 mm** in fourth-order leveling, significantly exceeding accuracy standards.  
 - Led a control survey group that obtained the **lowest measurement error across the entire cohort**.
