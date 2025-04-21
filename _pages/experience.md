@@ -121,7 +121,7 @@ Enhanced spatial thinking, map design aesthetic, and model building capability. 
 ---
 
 ### 🌐 Location-based Service Development and Application Practice  
-**Tools:** HTML, CSS, JavaScript, MySQL, Baidu Map API  **Grade:** Excellent  
+**Tools:** HTML, CSS, JavaScript, MySQL, Baidu Map API  **Grade:** Excellent  
 **Project:** *Guilin River and Lake Monitoring System*  
 
 **Content:**  
