@@ -125,30 +125,3 @@ hr {
   font-size: 15px;
 }
 
-/* 让页面主体内容最大化展开 */
-.page {
-  max-width: 100% !important;
-  width: 100% !important;
-  margin: 0 auto;
-  padding: 0 2rem;
-}
-
-/* 让 archive 类型页面也全宽 */
-.archive {
-  max-width: 100% !important;
-  width: 100% !important;
-  margin: 0 auto;
-  padding: 0 2rem;
-}
-
-/* 可选：限制侧边栏宽度避免太宽 */
-.sidebar {
-  max-width: 260px;
-}
-
-/* 可选：正文区域增强对比度 */
-.page__content {
-  width: 100%;
-  max-width: 100%;
-}
-
