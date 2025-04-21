@@ -125,10 +125,17 @@ hr {
   font-size: 15px;
 }
 
-/* === Expand Main Content Width === */
-.page, .page__content, .page__inner-wrap, .archive {
-  max-width: 100% !important;
-  width: 100% !important;
-  padding-left: 2rem;
-  padding-right: 2rem;
+/* === Expand Main Content Width (Fixed) === */
+@media (min-width: 64em) {
+  .page {
+    max-width: 95% !important;
+    margin-left: 280px; /* sidebar 宽度 */
+    padding: 2rem 3rem;
+  }
+
+  .page__content,
+  .page__inner-wrap {
+    max-width: 100% !important;
+    padding: 0;
+  }
 }
