@@ -239,4 +239,42 @@ hr {
   padding-left: 0;
   padding-right: 0;
 }
+/* === Sidebar 固定宽度 + 页面整体避让 === */
+.sidebar {
+  width: 260px;
+  position: relative; /* 从 fixed 改为相对定位，避免遮盖内容 */
+  float: left;
+  padding: 2rem 1rem;
+  background: #fff;
+  border-right: 1px solid #e0e0e0;
+  z-index: 1;
+}
 
+.page {
+  margin-left: 260px !important; /* 内容区域避开侧边栏宽度 */
+  padding: 2rem 2rem;
+  max-width: calc(100% - 260px);
+}
+
+.page__content,
+.page__inner-wrap {
+  max-width: 100% !important;
+  width: 100% !important;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+/* === 响应式支持（屏幕过小时堆叠显示） === */
+@media (max-width: 900px) {
+  .sidebar {
+    width: 100%;
+    float: none;
+    border-right: none;
+    border-bottom: 1px solid #e0e0e0;
+  }
+
+  .page {
+    margin-left: 0 !important;
+    max-width: 100% !important;
+  }
+}
