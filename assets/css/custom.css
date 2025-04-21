@@ -1,4 +1,4 @@
-/* === Global Reset & Base === */ 
+/* === Global Reset & Base === */
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   line-height: 1.8;
@@ -124,14 +124,9 @@ hr {
   margin-bottom: 1rem;
   font-size: 15px;
 }
-/* === Force Full Width Across All Browsers === */
-.page {
-  max-width: 100% !important;
-  width: 100% !important;
-  padding-left: 2rem;
-  padding-right: 2rem;
-}
 
+/* === Full Width Fix Across All Browsers === */
+.page,
 .page__content,
 .page__inner-wrap {
   max-width: 100% !important;
@@ -142,7 +137,13 @@ hr {
 
 @media (min-width: 64em) {
   .page {
-    margin-left: 280px;
+    margin-left: 280px; /* sidebar 默认宽度 */
     padding: 2rem 3rem;
+    width: calc(100% - 280px);
+  }
+
+  .page__content,
+  .page__inner-wrap {
+    padding: 0;
   }
 }
