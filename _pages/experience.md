@@ -44,13 +44,13 @@ author_profile: true
 ---
 
 ### 🗺️ Fundamental Geographic Information Practice  
-**Tools:** SuperMap, ArcGIS, MapGIS, Handheld GPS  
+**Tools:** SuperMap, ArcGIS, Handheld GPS  
 **Role:** Team Leader  **Grade:** Excellent  
 
 **Content:**   
 - Completed spatial data visualization and thematic mapping for **Guilin City** using **SuperMap**, focusing on administrative boundaries and infrastructure.  
 - Designed and created thematic maps for **Wuhan City** using **ArcGIS**, including land use and functional zoning.  
-- Conducted topographic survey using **handheld GPS**, and produced a detailed **campus layout map** with precise feature annotation and symbology in MapGIS.
+- Conducted topographic survey using **handheld GPS**, and produced a detailed **campus layout map** with precise feature annotation and symbology in ArcGIS.
 <p align="center">
   <img src="/images/guilin.png" width="60%"/>
   <img src="/images/wuhan.png" width="60%"/>
