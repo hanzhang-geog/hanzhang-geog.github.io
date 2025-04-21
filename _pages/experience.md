@@ -140,7 +140,7 @@ Enhanced spatial thinking, map design aesthetic, and model building capability. 
 
 ### 🏫 University-Led Rural Practice Activities  
 **Program:** "Three Going to the Countryside" Summer Social Practice  
-**Organizer:** School of Geomatics and Geoinformation, Guilin University of Technology  
+**Organizer:** College of Geomatics and Geoinformation, Guilin University of Technology  
 **Years:** 2022, 2023  
 **Locations:** Villages and grassroots enterprises in Guilin area
 - Visited rural revitalization demonstration zones and local memorial halls.
