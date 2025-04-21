@@ -1,4 +1,4 @@
-/* === Global Reset & Base === */
+/* === Global Reset & Base === */ 
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   line-height: 1.8;
@@ -125,3 +125,10 @@ hr {
   font-size: 15px;
 }
 
+/* === Expand Main Content Width === */
+.page, .page__content, .page__inner-wrap, .archive {
+  max-width: 100% !important;
+  width: 100% !important;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
