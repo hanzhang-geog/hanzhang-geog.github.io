@@ -124,3 +124,52 @@ hr {
   margin-bottom: 1rem;
   font-size: 15px;
 }
+/* === Sidebar (左栏) 样式设置 === */
+.sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 260px;
+  height: 100%;
+  padding: 2rem 1rem;
+  background-color: #ffffff;
+  border-right: 1px solid #e0e0e0;
+  overflow-y: auto;
+  z-index: 1000;
+  box-sizing: border-box;
+}
+
+/* === 主体内容容器设置，避让侧边栏 === */
+.page {
+  margin-left: 260px;
+  padding: 2rem 2rem;
+  max-width: calc(100% - 260px);
+  box-sizing: border-box;
+}
+
+/* === 防止子内容区域被遮挡 === */
+.page__content,
+.page__inner-wrap {
+  max-width: 100%;
+  width: 100%;
+  padding-left: 0;
+  padding-right: 0;
+  box-sizing: border-box;
+}
+
+/* === 响应式支持：小屏设备下让侧边栏自动堆叠 === */
+@media (max-width: 960px) {
+  .sidebar {
+    position: relative;
+    width: 100%;
+    height: auto;
+    border-right: none;
+    border-bottom: 1px solid #e0e0e0;
+  }
+
+  .page {
+    margin-left: 0;
+    max-width: 100%;
+    padding: 2rem 1rem;
+  }
+}
