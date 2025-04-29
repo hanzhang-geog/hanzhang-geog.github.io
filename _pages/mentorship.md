@@ -36,6 +36,6 @@ It introduces an improved version of the YOLOv8 framework, named **DynamiCyclone
 - Dynamic tracking of storm evolution over time  
 - Reliable area estimation of cyclone cloud clusters under changing environmental conditions
 
-The work includes dataset construction from FY-series satellites, model development and training, and performance validation using real-world typhoon cases.
+The work includes dataset construction from National Institute of Informatics, model development and training, and performance validation using real-world typhoon cases.
 
 ---
