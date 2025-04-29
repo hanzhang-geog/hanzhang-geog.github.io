@@ -31,9 +31,9 @@ Authors: Yaqi You, Yuwen Yang, **Han Zhang**
 
 **Undergraduate Thesis**    
 *Dynamic Detection and Area Estimation of Tropical Cyclones Based on DynamiCyclone-YOLO*  
-2024.11 – Present | Supervisor: Prof. Jingwen Li    
+2024.12 – Present | Supervisor: Prof. Jingwen Li    
 - Developed an improved YOLOv8-based model for detecting tropical cyclones in infrared remote sensing images  
-- Built multi-year infrared dataset using FY satellite imagery (2005–2020)  
+- Built multi-year infrared dataset using National Institute of Informatics imagery (2000–2024)  
 - Focused on enhancing model sensitivity to small-scale features and dynamic storm regions  
 
 **Undergraduate Innovation Projects**  
