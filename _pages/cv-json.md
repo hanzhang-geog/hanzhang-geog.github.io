@@ -18,7 +18,7 @@ redirect_from:
   <p style="font-size: 1.1rem; color: #555;">You can view or download my CV using the buttons below:</p>
 
   <div style="margin-top: 2rem; display: flex; justify-content: center; gap: 1rem;">
-    <a href="/files/cv.pdf" class="btn btn--primary">⬇️ Download PDF</a>
+    <a href="/files/ZhangHan_CV.pdf" class="btn btn--primary">⬇️ Download PDF</a>
     <a href="/cv/" class="btn btn--outline">🧾 View Online Version</a>
   </div>
 </div>
