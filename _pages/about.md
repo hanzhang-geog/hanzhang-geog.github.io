@@ -23,7 +23,7 @@ author_profile: true
 
 - 🛰️ **Deep Learning**
 - 🌏 **Climate Change**
-- 🌊 **Ocean Remote Sensing**
+- 🌊 **Remote Sensing**
 
 ---
 
