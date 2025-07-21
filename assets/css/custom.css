@@ -179,3 +179,8 @@ hr {
   display: none !important;
 }
 
+/* 纯粹右移侧边栏 20px */
+.sidebar,
+.sidebar.sticky {
+  left: 20px !important;
+}
