@@ -10,11 +10,11 @@ author_profile: true
 **Guilin University of Technology**  
 *B.Sc. in Geographic Information Science* (sept. 2021 – Jun. 2025, expected)  
 🌏 Guilin, China  
-- GPA: 3.74 / 5.0    Rank: 3 / 96  
-- Top 1 in major during junior year  
-- Scored ≥95 in 43 courses, ≥90 in 51 courses  
+- GPA: 88/100    Rank: 3 / 96  
+- Ranked first in major for both comprehensive evaluation and cumulative GPA (92/100) during junior year.
+- Scored ≥95 in 50 courses, ≥90 in 59 courses  
 - *Minor: Big Data Intelligent Mapping and Simulation*
-- GPA: 4.26 / 5.0
+- GPA: 92/100
   
 ## 📑 Publications 
 
@@ -35,6 +35,20 @@ Authors: Yaqi You, Yuwen Yang, **Han Zhang**
 - Developed an improved YOLOv8-based model for detecting tropical cyclones in infrared remote sensing images  
 - Built multi-year infrared dataset using National Institute of Informatics imagery (2000–2024)  
 - Focused on enhancing model sensitivity to small-scale features and dynamic storm regions  
+
+**Estimation of daytime all-sky sea surface temperature from Himawari-8
+ based on multilayer stacking machine learning**
+ Project Team Leader
+ 11/2023– 12/2023
+ Supervisor: Donglin Fan (Associate Professor)
+ - Designed a three-layer stacked machine learning model (TLSM) with 22-dimensional input features and
+ evaluated its performance using R², RMSE, and bias.
+ - Constructed a training and testing sample set covering nine cloud types by matching Himawari-8 gridded
+ imagery with cloud property products and in situ sea surface temperature (SST) data through three-level
+ collocation in time, space, and quality flags.
+ - Conducted multiple comparative experiments—such as SVR baseline model comparisons, cloud-type-specific
+ evaluations, input configuration tests, and additional comparative studies—to achieve all-weather sea surface
+temperature retrieval.
 
 **Undergraduate Innovation Projects**  
 *Road Extraction from Remote Sensing Imagery Based on Deep Learning*    Apr. 2023 – Apr. 2024  
