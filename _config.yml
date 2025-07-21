@@ -17,14 +17,9 @@ author:
   bio: "Through hardships to the stars"
   location: "Shandong, China"
   employer: "GIS"
-contacts:
-      - label: "Email"
-        url: "mailto:zhanghangeog@gmail.com"
-      - label: "CNKI"
-        url: "https://kns.cnki.net/kcms2/author/detail?v=BlOUhu2v8Y-jTnp7cabt3Xn3J9NY9j0JqQkt_8liKoAOoiA-MGaAo9qCzLddsnzGDyPshGEkJkAg9DJiJdHiabOgTerMSOxJUNyAD8Ijm9Sn1MegTfeXxw==&uniplatform=NZKPT&language=CHS"
-      - label: "GitHub"
-        url: "https://github.com/hanzhang-geog"
-
+  email: "zhanghangeog@gmail.com"
+  cnki: "https://kns.cnki.net/kcms2/author/detail?v=…&language=CHS"
+  github: "https://github.com/hanzhang-geog"
 ---
 # Publication Category
 publication_category:
