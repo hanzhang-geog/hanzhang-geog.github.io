@@ -76,7 +76,7 @@ author_profile: true
 - **Project 3: 3D Terrain Visualization & Animation**
   - Created RGB543 false-color composites and applied NoData masking for preprocessing.
   - Clipped image scenes and imported to ArcScene, adjusted base heights and vertical exaggeration.
-  - Generated a 3D animated rendering of the wetland landscape, enhancing terrain cognition.
+  - Generated a 3D animated rendering of the wetland landscape, enhancing terrain cognition.  
 **Outcome:**
 Enhanced spatial thinking, map design aesthetic, and model building capability. Developed hands-on skills in ArcGIS/ModelBuilder/AHP/3D visualization and improved the understanding of spatial processes from environmental modeling to cartographic production.
 <p align="center">
@@ -92,9 +92,9 @@ Enhanced spatial thinking, map design aesthetic, and model building capability. 
 **Tools:** VirtuoZo, ENVI  **Grade:** Excellent  
 
 **Content:**    
--Built stereo photogrammetric models and conducted image orientation, tie point collection, DEM & DOM generation using VirtuoZo.  
--Executed remote sensing image correction, mosaicking, fusion, and classification using ENVI, including ISODATA and Maximum Likelihood classification.  
--Engaged in feature extraction and thematic map creation using multi-source imagery and processed a variety of RS workflows from raw data to classified outputs.
+-Built stereo photogrammetric models and conducted image orientation, tie point collection, DEM & DOM generation using VirtuoZo.    
+-Executed remote sensing image correction, mosaicking, fusion, and classification using ENVI, including ISODATA and Maximum Likelihood classification.    
+-Engaged in feature extraction and thematic map creation using multi-source imagery and processed a variety of RS workflows from raw data to classified outputs.  
 <p align="center">
   <img src="/images/3.png" width="60%"/>
   <img src="/images/2.png" width="60%"/>
