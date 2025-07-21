@@ -173,3 +173,8 @@ hr {
     padding: 2rem 1rem;
   }
 }
+
+  /* 隐藏页脚的 Sitemap 区块 */
+.page__footer-nav.sitemap {
+  display: none !important;
+}
