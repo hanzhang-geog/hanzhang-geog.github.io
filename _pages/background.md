@@ -17,7 +17,7 @@ author_profile: true
     - Design of Python Programming (95)  
     - Principles and Applications of Spatial Database (91)
     - Secondary Development of GIS (95)
-  - Ranked **1st** in major for both **comprehensive evaluation** and **cumulative GPA (92/100)** during junior year 
+  - Ranked **1st** in major for both **comprehensive evaluation** and **cumulative GPA (92/100)** during junior year
     scoring **≥95** in **50 courses** and **≥90** in **59 courses** throughout the undergraduate program    
    
 
