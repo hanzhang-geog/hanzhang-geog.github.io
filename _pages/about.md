@@ -26,15 +26,6 @@ author_profile: true
 
 ---
 
-## 📬 Contact
-
-- 📧 Email: [zhanghangeog@gmail.com](mailto:zhanghangeog@gmail.com)  
-- 🌐 Website: [hanzhang-geog.github.io](https://hanzhang-geog.github.io)  
-- 🏡 CNKI: [个人学术主页](https://kns.cnki.net/kcms2/author/detail?v=BlOUhu2v8Y-jTnp7cabt3Xn3J9NY9j0JqQkt_8liKoAOoiA-MGaAo9qCzLddsnzGDyPshGEkJkAg9DJiJdHiabOgTerMSOxJUNyAD8Ijm9Sn1MegTfeXxw==&uniplatform=NZKPT&language=CHS)  
-- 🐙 GitHub: [@hanzhang-geog](https://github.com/hanzhang-geog)
-
----
-
 ## 💬 Motto
 
 > — Through hardships to the stars.🌠
