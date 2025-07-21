@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Han Zhang",
-    "email": "📧 zhanghan020530@163.com",
+    "email": "📧 zhanghangeog@gamil.com",
     "website": "https://hanzhang-geog.github.io",
     "summary": "🐾 Per aspera ad astra",
     "location": {
@@ -12,18 +12,18 @@
     {
       "institution": "Guilin University of Technology",
       "area": "Major Programme: Geographic Information Science",
-      "startDate": "Sept. 2021",
-      "endDate": "Jun. 2025",
-      "gpa": "3.7/5.0",
+      "startDate": "09/2021",
+      "endDate": "06/2025",
+      "gpa": "88/100",
       "rank": "3/96",
       "courses": []
     },
     {
       "institution": "Guilin University of Technology",
       "area": "Minor Programme: Big Data Intelligent Drawing and Simulation",
-      "startDate": "Sept. 2023",
-      "endDate": "Jun. 2025",
-      "gpa": "4.2/5.0",
+      "startDate": "09/2023",
+      "endDate": "06/2025",
+      "gpa": "92/100",
       "courses": []
     }
   ],
