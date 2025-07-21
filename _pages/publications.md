@@ -9,7 +9,7 @@ author_profile: true
 
 ### 1. Analysis and Evaluation of Multi-Scale Spatial Characteristics of Rural Residential Areas  
 **Published in:** *Geomatics & Spatial Information Technology*, Vol.47 No.6, 2024  
-**Authors:** Xie Jiali, **Han Zhang**, Wang Feng, Zhou Bowen  
+**Authors:** Xie Jiali, **Zhang Han**, Wang Feng, Zhou Bowen  
 📄 [📥 Download PDF]( /files/农村居民点多尺度空间特征分析与评价_谢嘉丽.pdf )
 
 **Abstract:**  
@@ -25,7 +25,7 @@ This multi-scale approach offers scientific support for urbanization and rural p
 
 ### 2. Priority Options for the 17 UN Sustainable Development Strategies — Based on the Model Network Perspective  
 **Published in:** *Business & Management – EMEHSS*, Vol.49, 2023  
-**Authors:** Yaqi You, Yuwen Yang, **Han Zhang**  
+**Authors:** Yaqi You, Yuwen Yang, **Zhang Han** 
 📄 [📥 Download PDF]( /files/联合国17个可持续发展战略的优先选择—基于模型网络的视角.pdf )
 
 **Abstract:**  
