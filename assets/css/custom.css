@@ -178,3 +178,11 @@ hr {
 .page__footer-nav.sitemap {
   display: none !important;
 }
+
+/* === 调整侧边栏宽度和正文左边距，拉近它们的距离 === */
+.sidebar {
+  width: 200px !important;
+}
+.page {
+  margin-left: 200px !important;
+}
