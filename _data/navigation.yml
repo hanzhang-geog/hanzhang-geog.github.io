@@ -12,10 +12,6 @@ main:
   - title: "Home"
     url: /about/
 
-
-  - title: "Background"
-    url: /background/
-
   - title: "Publications"
     url: /publications/
 
