@@ -31,7 +31,7 @@ author_profile: true
 
 **The Hong Kong Polytechnic University**  
 
-**Geomatics**   *09/2026 – Present*
+- **Geomatics**   *09/2026 – Present*
 
 **Guilin University of Technology**
 
