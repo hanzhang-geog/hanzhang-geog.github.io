@@ -29,7 +29,8 @@ author_profile: true
 
 ## 🎓 Educational Background
 
-**The Hong Kong Polytechnic University**
+**The Hong Kong Polytechnic University**  
+
 **Geomatics**   *09/2026 – Present*
 
 **Guilin University of Technology**
