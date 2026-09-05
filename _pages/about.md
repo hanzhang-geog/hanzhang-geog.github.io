@@ -14,15 +14,16 @@ author_profile: true
 
 ## 👋 Hello, I’m Han Zhang (张涵)
 
-🎓 I’m a senior undergraduate student majoring in **Geographic Information Science** at the [College of Geomatics and Geoinformation](https://cgg.glut.edu.cn/), [Guilin University of Technology](https://www.glut.edu.cn/).  
-📝 Minoring in **Big Data Intelligent Drawing and Simulation**.  
+🎓 I’m currently a Master’s student in **Geomatics** at the [Department of Land Surveying and GEOSPATIAL SCIENCE(LSGS)](https://www.polyu.edu.hk/lsgs/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/).  
+
 
 ---
 
 ## 🔍 Research Interests
 
 - 🛰️ **Deep Learning**
-- 🌏 **Remote Sensing**
+- 🌏 **Ocean Remote Sensing**
+- 🌀 **Tropical Cyclone**
 
 ---
 
