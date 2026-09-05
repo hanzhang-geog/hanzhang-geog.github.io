@@ -29,6 +29,9 @@ author_profile: true
 
 ## 🎓 Educational Background
 
+**The Hong Kong Polytechnic University**
+**Geomatics**   *09/2026 – Present*
+
 **Guilin University of Technology**
 
 - **Major**: Geographic Information Science   *09/2021 – 06/2025*  
